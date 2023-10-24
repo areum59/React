@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import { v4 as uuidv4 } from 'uuid';
 
 export default function AddTodo({onAdd}) {
-    const [text, setText] = useState();
-    // const handleChange = (e) => setText(e.target.value);
+    const [text, setText] = useState('');
+    const handleChange = (e) => setText(e.target.value);
     const onSubmit = (e) => {
         e.preventDefault();  // 화면이 리프레쉬 되는 것을 방지
         if (text.trim().length === 0) {
@@ -19,7 +19,7 @@ export default function AddTodo({onAdd}) {
           type="text"
           placeholder="할 일을 추가하세요"
           value={text}
-          onChange={e => setText(e.target.value)}
+          onChange={handleChange}
         />
         <button>추가</button>
       </form>
