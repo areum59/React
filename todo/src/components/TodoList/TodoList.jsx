@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import AddTodo from '../AddTodo/AddTodo';
 import TodoItem from '../TodoItem/TodoItem';
 
-export default function TodoList() {
+export default function TodoList({filter}) {
     const [todos, setTodos] = useState([
         {id: '123', text: '리스트1', status: 'active'},
         {id: '456', text: '리스트2', status: 'active'}
@@ -15,10 +15,12 @@ export default function TodoList() {
     const handleDelete = (deleted) => 
         setTodos(todos.filter((todo) => todo.id !== deleted.id));
 
+    const filtered = getFilterItems(todos, filter);
+
     return (
       <section>
         <ul>
-            {todos.map(todo => (
+            {filtered.map(todo => (
                 <TodoItem
                     key={todo.id}
                     item={todo}
@@ -31,4 +33,11 @@ export default function TodoList() {
         <AddTodo onAdd={handleAdd} />
       </section>
     );
+}
+
+function getFilterItems (todos, filter){
+    if(filter === 'all'){
+        return todos;
+    }
+    return todos.filter((todo) => todo.status === filter);
 }
