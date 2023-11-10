@@ -1,24 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
+import { Outlet } from 'react-router-dom' // 리액트 라우터로부터 Outlet을 불러온다.
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      {/* 자식 요소들을 보여줄 수 있도록 <Outlet>을 설정. */}
+      <Outlet />
+    </>
   );
 }
 
