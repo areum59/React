@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "WJYWEu-rbhPU_qostXQ142j-xR0",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 152090,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hsX1wDTHOo1jCx4Fi0LzPfztdmE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QHVKXKU5A0Y"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-12T17:20:04Z",
+                "channelId": "UCRy0YIMrV88Dd4t0aqbRs6g",
+                "title": "[4K] 231112 god 지오디 [god&#39;s MASTERPIECE] 콘서트 - 나는알아+그남자를떠나",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QHVKXKU5A0Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QHVKXKU5A0Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QHVKXKU5A0Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "덕구",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-12T17:20:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5_la16qLHas_Y8nZZ4UHwBxmy5s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nx7aAJKrSUg"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-03T01:00:16Z",
+                "channelId": "UCG_Auyb78oP43WQbGaQTKlA",
+                "title": "지오디(god)노래모음(24곡)",
+                "description": "오랜만에 들으니 좋네요~~ 1. 촛불 하나 2. 길 3. 사랑해 그리고 기억해 4. 하늘색 약속 5. 거짓말 6. 니가 있어야 할 곳 7. 노래 불러줘요 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nx7aAJKrSUg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nx7aAJKrSUg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nx7aAJKrSUg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "마카다2",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-03T01:00:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "P4oP3ovL_XjQx9phlfZTbRcZTmc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VrbEPUXD_BY"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-28T14:34:52Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "god - 촛불 하나 [KBS대기획 ㅇㅁㄷ 지오디] | KBS 230928 방송",
+                "description": "god - 촛불 하나.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VrbEPUXD_BY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VrbEPUXD_BY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VrbEPUXD_BY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS Kpop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-28T14:34:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9WF-YUTQtcZVOupO2W0umq8xs_o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GKR_6bDSDvo"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-21T23:03:07Z",
+                "channelId": "UCusW_eHZw_tWLVRv0fzxj_g",
+                "title": "god 노래모음 46곡♬, god 신나는 댄스및 발라드 노래 46곡 연속듣기, 보고듣는 소울뮤직TV",
+                "description": "여기서 나오는 광고는 유투브 자체적으로 자동적으로 삽입되는 것이며, (저와는 아무 상관없습니다) 그로 인한 광고 수익은 원 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GKR_6bDSDvo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GKR_6bDSDvo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GKR_6bDSDvo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "소울뮤직TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-21T23:03:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TBmojRhSkwNOFzqknh4BK3Cx1UU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "h7qXzkoqmXo"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-28T14:12:02Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "god - 그 남자를 떠나 [KBS대기획 ㅇㅁㄷ 지오디] | KBS 230928 방송",
+                "description": "god - 그 남자를 떠나.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h7qXzkoqmXo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h7qXzkoqmXo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h7qXzkoqmXo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS Kpop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-28T14:12:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uxW_b_4YOWarEXzQT_TZwENhI48",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pw_FAs2SF8I"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-25T07:36:09Z",
+                "channelId": "UCF49hgeROnh9VsNiTo_UU6Q",
+                "title": "[𝗽𝗹𝗮𝘆𝗹𝗶𝘀𝘁] 인트로만 들어도 떼창 가능한 지오디 노래모음",
+                "description": "https://www.youtube.com/channel/UCF49hgeROnh9VsNiTo_UU6Q Photo : 2023 god TOUR 'god's MASTERPIECE' SPOT VIDEO ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pw_FAs2SF8I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pw_FAs2SF8I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pw_FAs2SF8I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "𝐅𝐥𝐨𝐰 𝐨𝐟 𝐥𝐞𝐭𝐭𝐞𝐫",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-25T07:36:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pxuJbWMO-6tHv3-g17VX1pukhrk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PZLXCX6ksB0"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-28T13:02:54Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "god - 거짓말 [KBS대기획 ㅇㅁㄷ 지오디] | KBS 230928 방송",
+                "description": "god - 거짓말.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PZLXCX6ksB0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PZLXCX6ksB0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PZLXCX6ksB0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS Kpop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-28T13:02:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WSxQymrQvDXe9e8iJrdqFrkEHR8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Oov1IJp5dPM"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-28T14:06:04Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "god - 길 [KBS대기획 ㅇㅁㄷ 지오디] | KBS 230928 방송",
+                "description": "god - 길.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Oov1IJp5dPM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Oov1IJp5dPM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Oov1IJp5dPM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS Kpop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-28T14:06:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iUgkh98SD5fR5IIjW_G6xdZDkbo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ue4AdWnTCY4"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-28T14:02:20Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "god - 사랑해 그리고 기억해 [KBS대기획 ㅇㅁㄷ 지오디] | KBS 230928 방송",
+                "description": "god - 사랑해 그리고 기억해.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ue4AdWnTCY4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ue4AdWnTCY4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ue4AdWnTCY4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS Kpop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-28T14:02:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rRvGiEYSuhR-yc-O_PWgWbUqGHs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "E1qflZMbjZE"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-29T07:28:44Z",
+                "channelId": "UCBJWEBb6QaSOfT1gY8mXr3g",
+                "title": "지오디(god)노래모음(24곡)| god 노래모음 46곡|god 지오디 히트곡 명곡 모음🎻",
+                "description": "지오디(god)노래모음(24곡)| god 노래모음 46곡|god 지오디 히트곡 명곡 모음   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E1qflZMbjZE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E1qflZMbjZE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E1qflZMbjZE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Anniversary Ballad",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-29T07:28:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1MFTkFmpkGxKT6QRP1LXRXePKZE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Jr7MsrOUOb0"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-28T14:30:21Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "god - 하늘색 약속 [KBS대기획 ㅇㅁㄷ 지오디] | KBS 230928 방송",
+                "description": "god - 하늘색 약속.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Jr7MsrOUOb0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Jr7MsrOUOb0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Jr7MsrOUOb0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS Kpop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-28T14:30:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "s6Fdtmd-PTWUTnZaia57VPfzLPk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "h7R9IkPAImU"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-12T02:39:06Z",
+                "channelId": "UCX4anbQZosm12p_KThiqKTg",
+                "title": "[4K] 윤계상 댄스 시범 (23.11.11 지오디콘서트 god&#39;s Masterpiece)",
+                "description": "이건 넘 가까워서 폰카! 태우가 시키니까 눈으로 욕하는 윤계상ㅋㅋㅋ 졸귀.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h7R9IkPAImU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h7R9IkPAImU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h7R9IkPAImU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "오리꽥꽥",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-12T02:39:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GTaLcgyrb6XCgTP-uQle1_5DPaE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GVGrajR6758"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-07T13:08:38Z",
+                "channelId": "UC8XWK2mIFiFH1BRDi-qGMFA",
+                "title": "[Playlist] 2022 god 콘서트 셋리스트│2023 god 콘서트를 기다리는 우리들의 자세",
+                "description": "이번 주말에 열리는 2023 god 콘서트 \"god's MASTERPIECE\" 를 기다리며 설레이는 마음을 증폭시켜줄 22년 god 콘서트 셋리스트를 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GVGrajR6758/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GVGrajR6758/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GVGrajR6758/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Baro.JiGeun - 바로, 지근",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-07T13:08:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ne07GlVzaFFEWrQ_h4Xub8P1rZ8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BpETXlT_dF0"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-14T11:38:57Z",
+                "channelId": "UCX4anbQZosm12p_KThiqKTg",
+                "title": "[4K] 지오디 - 반대가 끌리는 이유 풀영상 (23.11.12 지오디콘서트 god&#39;s Masterpiece)",
+                "description": "발캠주의...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BpETXlT_dF0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BpETXlT_dF0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BpETXlT_dF0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "오리꽥꽥",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-14T11:38:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HMDIcwaqf2rlra8jgz2oluTT7PY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5Xe7p_SxRzA"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-28T13:14:43Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "god - 애수 [KBS대기획 ㅇㅁㄷ 지오디] | KBS 230928 방송",
+                "description": "god - 애수.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5Xe7p_SxRzA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5Xe7p_SxRzA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5Xe7p_SxRzA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS Kpop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-28T13:14:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "f8SR5m9UtcC7itiagw96qFe7jDs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xiLWN0HSpv4"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-28T13:53:04Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "god - 관찰 [KBS대기획 ㅇㅁㄷ 지오디] | KBS 230928 방송",
+                "description": "god - 관찰.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xiLWN0HSpv4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xiLWN0HSpv4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xiLWN0HSpv4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS Kpop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-28T13:53:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iuoHiY0qXt1O4dqMvCfCE9mQaoY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ghk8r-l5Wm0"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-28T14:46:57Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "[K-Choreo 8K] 지오디 직캠 &#39;Friday Night + 니가 있어야할 곳 + 0%&#39; (god Choreography) @KBS 대기획 ‘ㅇㅁㄷ 지오디’ 230928",
+                "description": "ㅇㅁㄷ지오디 #god #Choreography #8k More from #KBSKPOP Twitter: https://twitter.com/StudioK_twt Instagram: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ghk8r-l5Wm0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ghk8r-l5Wm0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ghk8r-l5Wm0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS Kpop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-28T14:46:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "l-k8-YtzugBBXyhOS-lTxZ-Mx80",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RGzBSZj_xkw"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-10T10:00:11Z",
+                "channelId": "UCchRZl7m_2EZgY60m9qNPDg",
+                "title": "지오디 리더는 대놓고 멤버 차별하는데 왜 논란이 안되나요?🤔 god 박준형, 윤계상, 데니 안, 손호영, 김태우 완전체 등장! #ELLE짤터뷰 | ELLE KOREA",
+                "description": "ELLE짤터뷰 #god #지오디 god 완전체 박준형, 윤계상, 데니 안, 손호영, 김태우가 엘르에 등장! 팬지들이 그동안 궁금해했던 그 때 그 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RGzBSZj_xkw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RGzBSZj_xkw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RGzBSZj_xkw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "엘르 코리아_ELLE KOREA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-10T10:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rBReH0-j5eGHDsfWiJmgSSbnHm4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mvw5cUAHWmo"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-28T12:53:32Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "god - 어머님께 [KBS대기획 ㅇㅁㄷ 지오디] | KBS 230928 방송",
+                "description": "god - 어머님께.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mvw5cUAHWmo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mvw5cUAHWmo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mvw5cUAHWmo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS Kpop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-28T12:53:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3CuoxWSEHUzUr4Zi4rX8npBb_xM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d_zak2S5qV4"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-28T14:06:05Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "god - 보통날 [KBS대기획 ㅇㅁㄷ 지오디] | KBS 230928 방송",
+                "description": "god - 보통날.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d_zak2S5qV4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d_zak2S5qV4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d_zak2S5qV4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS Kpop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-28T14:06:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BsETYlpy6JjInSRmrJkGMfBE-Ic",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NKXssleqrzU"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-25T09:00:20Z",
+                "channelId": "UCgqmlP0mO8Xgkx9DVyhiTnw",
+                "title": "2023 지오디 모의고사 (2023 god mock exam)",
+                "description": "god #지오디 #fangod Official Instagram : https://www.instagram.com/official_god0113/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NKXssleqrzU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NKXssleqrzU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NKXssleqrzU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "god",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-25T09:00:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "H7UmWBGOmuVOT07QOf7WX9cecpQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Mix-ahYhaPU"
+            },
+            "snippet": {
+                "publishedAt": "2015-08-16T03:55:08Z",
+                "channelId": "UCfgy6efzOayjPpd6iPtjMvA",
+                "title": "150815 나는 대한민국 god (지오디) - 길 + 거짓말 + 니가 있어야 할곳 + 촛불 하나",
+                "description": "150815 광복70년 국민대합창 나는 대한민국 god (지오디) - 길 (Road) + 거짓말 (Lies) + 니가 있어야 할곳 (Place where you need to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Mix-ahYhaPU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Mix-ahYhaPU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Mix-ahYhaPU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "린린",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-08-16T03:55:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "d2FdDhi2vvn175DMGuPL1jI4ODI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2OnBRexEy_8"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-28T14:58:42Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "[미공개] ‘니가 다시 돌아올 수 있도록🎶’ 나의 마음 열어둘 거야~ 지오디를 위해 비워둘 거야~ [KBS대기획 ㅇㅁㄷ 지오디] | KBS 230928 방송",
+                "description": "[미공개] '니가 다시 돌아올 수 있도록  ' 나의 마음 열어둘 거야~ 지오디를 위해 비워둘 거야~",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2OnBRexEy_8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2OnBRexEy_8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2OnBRexEy_8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS Kpop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-28T14:58:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QlyUky3ULapBwK11qodk66mUbAg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ub73o80mhic"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-28T14:53:44Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "[K-Choreo 8K] 지오디 직캠 &#39;거짓말 + 미운오리새끼&#39; (god Choreography) @KBS 대기획 ‘ㅇㅁㄷ 지오디’ 230928",
+                "description": "ㅇㅁㄷ지오디 #god #Choreography #8k More from #KBSKPOP Twitter: https://twitter.com/StudioK_twt Instagram: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ub73o80mhic/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ub73o80mhic/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ub73o80mhic/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS Kpop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-28T14:53:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BvgaQ7RGu3BkRo-HxRHHa8MYCc4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ijm76DJbm_E"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-28T14:12:04Z",
+                "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+                "title": "god - 다시 [KBS대기획 ㅇㅁㄷ 지오디] | KBS 230928 방송",
+                "description": "god - 다시.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ijm76DJbm_E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ijm76DJbm_E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ijm76DJbm_E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS Kpop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-28T14:12:04Z"
+            }
+        }
+    ]
+}

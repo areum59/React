@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "tqFGIoQk95SQjEGHHp-aoCVkirM",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 25
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2HMGSHgsK4sQu_cRmvxVzwUxRyY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "C3GouGa0noM"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-04T04:57:09Z",
+          "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+          "title": "GODS ft. NewJeans (뉴진스) (Official Music Video) | Worlds 2023 Anthem - League of Legends",
+          "description": "This is the story of an unbreakable spirit and the unbending heart of a champion. The official anthem and music video for Worlds ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/C3GouGa0noM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/C3GouGa0noM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/C3GouGa0noM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "League of Legends",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-04T04:57:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EjIWAqva7O-r4ksnj1Lq7xQ0dvE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qr0gvk-_4xA"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-04T11:44:42Z",
+          "channelId": "UCmth4hMyizG-_W9jidBqs_A",
+          "title": "NewJeans (뉴진스) &#39;GODS&#39; Lyrics (Color Coded Lyrics) | League of Legends - Worlds 2023 Anthem",
+          "description": "All Rights Administered by Riot Games • Artist: NewJeans (뉴진스) • Song ♫: GODS • Album: Worlds 2023 Anthem - League of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qr0gvk-_4xA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qr0gvk-_4xA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qr0gvk-_4xA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Jaeguchi",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-04T11:44:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GTaLcgyrb6XCgTP-uQle1_5DPaE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GVGrajR6758"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-07T13:08:38Z",
+          "channelId": "UC8XWK2mIFiFH1BRDi-qGMFA",
+          "title": "[Playlist] 2022 god 콘서트 셋리스트│2023 god 콘서트를 기다리는 우리들의 자세",
+          "description": "이번 주말에 열리는 2023 god 콘서트 \"god's MASTERPIECE\" 를 기다리며 설레이는 마음을 증폭시켜줄 22년 god 콘서트 셋리스트를 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GVGrajR6758/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GVGrajR6758/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GVGrajR6758/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Baro.JiGeun - 바로, 지근",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-07T13:08:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yamcypAiJ5nw0aH6lID2kC7Vhf4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zSQ48zyWZrY"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-23T08:58:09Z",
+          "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+          "title": "SEVENTEEN (세븐틴) &#39;음악의 신&#39; Official MV",
+          "description": "SEVENTEEN (세븐틴) '음악의 신' Official MV #SEVENTEEN #세븐틴 #SEVENTEENTH_HEAVEN #음악의신 #GodOfMusic ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zSQ48zyWZrY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zSQ48zyWZrY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zSQ48zyWZrY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "HYBE LABELS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-23T08:58:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9WF-YUTQtcZVOupO2W0umq8xs_o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GKR_6bDSDvo"
+        },
+        "snippet": {
+          "publishedAt": "2020-10-21T23:03:07Z",
+          "channelId": "UCusW_eHZw_tWLVRv0fzxj_g",
+          "title": "god 노래모음 46곡♬, god 신나는 댄스및 발라드 노래 46곡 연속듣기, 보고듣는 소울뮤직TV",
+          "description": "여기서 나오는 광고는 유투브 자체적으로 자동적으로 삽입되는 것이며, (저와는 아무 상관없습니다) 그로 인한 광고 수익은 원 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GKR_6bDSDvo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GKR_6bDSDvo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GKR_6bDSDvo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "소울뮤직TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-10-21T23:03:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wNpOZNTmz9GcaLK53qw50nPk4mM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9sE5kEnitqE"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-14T16:00:18Z",
+          "channelId": "UCNmQn4rMjc5DOHT-e5nW6wA",
+          "title": "CeCe Winans - Goodness of God (Official Video)",
+          "description": "Official music video for \"Goodness Of God” by CeCe Winans. Stream or download the song: https://fts.lnk.to/BFIDeluxe Connect ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9sE5kEnitqE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9sE5kEnitqE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9sE5kEnitqE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CeCeWinansVEVO",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-14T16:00:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uxW_b_4YOWarEXzQT_TZwENhI48",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pw_FAs2SF8I"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-25T07:36:09Z",
+          "channelId": "UCF49hgeROnh9VsNiTo_UU6Q",
+          "title": "[𝗽𝗹𝗮𝘆𝗹𝗶𝘀𝘁] 인트로만 들어도 떼창 가능한 지오디 노래모음",
+          "description": "https://www.youtube.com/channel/UCF49hgeROnh9VsNiTo_UU6Q Photo : 2023 god TOUR 'god's MASTERPIECE' SPOT VIDEO ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pw_FAs2SF8I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pw_FAs2SF8I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pw_FAs2SF8I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "𝐅𝐥𝐨𝐰 𝐨𝐟 𝐥𝐞𝐭𝐭𝐞𝐫",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-25T07:36:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Go3ra91Dawx2dsMo8Rup0Ga_Aa4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "B4-x2WhzjJw"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-06T00:27:40Z",
+          "channelId": "UCSPrC9GpKncetZ9T8_KJBcw",
+          "title": "[god PLAYLIST]  │ 파란 하늘 하늘색 풍선은 우리 맘속에 영원할거야 │ god 지오디 노래모음",
+          "description": "god #지오디 #하늘색풍선 #노래모음.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/B4-x2WhzjJw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/B4-x2WhzjJw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/B4-x2WhzjJw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "라디오국 김피디[RADIO Prod.K]",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-06T00:27:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iuoHiY0qXt1O4dqMvCfCE9mQaoY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Ghk8r-l5Wm0"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-28T14:46:57Z",
+          "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+          "title": "[K-Choreo 8K] 지오디 직캠 &#39;Friday Night + 니가 있어야할 곳 + 0%&#39; (god Choreography) @KBS 대기획 ‘ㅇㅁㄷ 지오디’ 230928",
+          "description": "ㅇㅁㄷ지오디 #god #Choreography #8k More from #KBSKPOP Twitter: https://twitter.com/StudioK_twt Instagram: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ghk8r-l5Wm0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ghk8r-l5Wm0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ghk8r-l5Wm0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "KBS Kpop",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-28T14:46:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "f27mCMCw54CZkpYbwBsBOSt8Gzs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "n0FBb6hnwTo"
+        },
+        "snippet": {
+          "publishedAt": "2019-01-04T17:06:56Z",
+          "channelId": "UCbertc-gMbkkHuSmg0qwnxw",
+          "title": "Goodness Of God (LIVE) - Jenn Johnson | VICTORY",
+          "description": "\"Goodness Of God\" sung by Jenn Johnson live at Bethel Church VICTORY Album Available everywhere now: Spotify ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/n0FBb6hnwTo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/n0FBb6hnwTo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/n0FBb6hnwTo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bethel Music",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-01-04T17:06:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "r1Jripti5zkcWuf1KGx-gEbHgtM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vsIudAiM7pY"
+        },
+        "snippet": {
+          "publishedAt": "2021-07-29T18:01:28Z",
+          "channelId": "UCvvVOIyaYu2l4jiH9L8_eRw",
+          "title": "Dax - &quot;Child Of God&quot; (Official Music Video)",
+          "description": "We were all created in God's Image... Share \"Child Of God\" with someone you know and let's talk... This is the 1st Single off my 1st ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vsIudAiM7pY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vsIudAiM7pY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vsIudAiM7pY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Dax",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-07-29T18:01:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Yc1Ih30c6BRXagfGNKXSP-DjYB4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bBTeAg5CFRA"
+        },
+        "snippet": {
+          "publishedAt": "2018-03-15T00:23:10Z",
+          "channelId": "UCprAFmT0C6O4X0ToEXpeFTQ",
+          "title": "GOD.",
+          "description": "Provided to YouTube by Universal Music Group GOD. · Kendrick Lamar DAMN. COLLECTORS EDITION. ℗ 2017 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bBTeAg5CFRA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bBTeAg5CFRA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bBTeAg5CFRA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Kendrick Lamar - Topic",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-03-15T00:23:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NxOMD4bMT5HihOyPC8pFQ6DDQmY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RtJlAzi-R0w"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-19T20:43:06Z",
+          "channelId": "UC3cHZa7D0kEIGa5MIsO_8og",
+          "title": "How God Speaks Through Your Mind",
+          "description": "God speaks to you. Dive deep into the intricate pathways of the brain, where science and spirituality intertwine. This video ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RtJlAzi-R0w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RtJlAzi-R0w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RtJlAzi-R0w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sehnend",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-19T20:43:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "w-2JpnY0_cA896t1qr9HQJVWJOI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8omWemXToxI"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-04T07:32:36Z",
+          "channelId": "UCJKOxCsYUBtoE_RM7Vwk3Og",
+          "title": "League of Legends, NewJeans (뉴진스) - GODS (1 HOUR LOOP) Lyrics | 1시간 가사",
+          "description": "newjeans gods 1 hour 뉴진스 gods 1시간.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8omWemXToxI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8omWemXToxI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8omWemXToxI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "1 Høur",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-04T07:32:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NKQDK9pMGV_jMaWEa8cVinQj77U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Vvidauvuu3o"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-09T13:00:32Z",
+          "channelId": "UC681VWKURHQtBgn0kOdjvtA",
+          "title": "I Am Ever-Present | Gods message today | God blessings message | God&#39;s Message for me Today",
+          "description": "I Am Ever-Present | Gods message today | God blessings message | God's Message for me Today ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Vvidauvuu3o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Vvidauvuu3o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Vvidauvuu3o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "God's Message Now",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-09T13:00:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "pt-StbKFPA8QG1btQoCQCI1OmLM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sfI2se3O80Q"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-06T22:41:17Z",
+          "channelId": "UCL_f53ZEJxp8TtlOkHwMV9Q",
+          "title": "A Conversation About God | Dr. John Lennox | EP 394",
+          "description": "Dr. Jordan B Peterson sits down with mathematician, author, and theologian Dr. John Lennox. They discuss the axioms and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sfI2se3O80Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sfI2se3O80Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sfI2se3O80Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Jordan B Peterson",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-06T22:41:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5_la16qLHas_Y8nZZ4UHwBxmy5s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nx7aAJKrSUg"
+        },
+        "snippet": {
+          "publishedAt": "2021-08-03T01:00:16Z",
+          "channelId": "UCG_Auyb78oP43WQbGaQTKlA",
+          "title": "지오디(god)노래모음(24곡)",
+          "description": "오랜만에 들으니 좋네요~~ 1. 촛불 하나 2. 길 3. 사랑해 그리고 기억해 4. 하늘색 약속 5. 거짓말 6. 니가 있어야 할 곳 7. 노래 불러줘요 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nx7aAJKrSUg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nx7aAJKrSUg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nx7aAJKrSUg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "마카다2",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-08-03T01:00:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ClYaTc2aX2BzIizfgYZ4xB-Y7dE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gKXGVtZyxg8"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-07T23:15:10Z",
+          "channelId": "UCj2yZE96gWsFyeVYnY9zXeg",
+          "title": "CRAZIEST God MOMENT From Jordan Peterson&#39;s Event NOBODY Is Talking About",
+          "description": "CRAZIEST MOMENT From Jordan Peterson's Event NOBODY Is Talking About : Check Out The Bless God Prayer Journal Here: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gKXGVtZyxg8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gKXGVtZyxg8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gKXGVtZyxg8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ruslan KD",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-07T23:15:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2iy7KAqH93ligY8rln3X2_U-6zc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XeJ2vOHaATg"
+        },
+        "snippet": {
+          "publishedAt": "2021-08-13T02:00:09Z",
+          "channelId": "UClSf95kSFthb2NNHle4a7fw",
+          "title": "Fall Asleep In God&#39;s Word [Try Listening for 3 Minutes!]",
+          "description": "Try listening for 3 minutes and fall asleep in God's Word with Bible sleep meditations accompanied with #relaxing rain ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XeJ2vOHaATg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XeJ2vOHaATg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XeJ2vOHaATg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Abide - Sleep Meditations",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-08-13T02:00:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "t0o-OTGkyP5vyHGVw2fPI9YnCJo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-f4MUUMWMV4"
+        },
+        "snippet": {
+          "publishedAt": "2019-02-08T23:00:00Z",
+          "channelId": "UCTPioC8tmJMcpdB-XKMch4Q",
+          "title": "Goodness Of God (Lyrics) ~ Bethel Music",
+          "description": "Goodness Of God (Lyrics) ~ Bethel Music Get the chord chart: https://bethelmusic.com/chords-and-lyrics/goodness-of-god/ Listen ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-f4MUUMWMV4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-f4MUUMWMV4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-f4MUUMWMV4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "music meets heaven",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-02-08T23:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HXlmybRJXSsGkCQxyFoX29cTNBs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KsOFRZhSpa8"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-03T02:00:14Z",
+          "channelId": "UCZZeelWj_pNk38tQEowt3gg",
+          "title": "Chlöe - Don&#39;t Worry &#39;Bout Me (Audio/Lyrics) 🎵 | i got g-o-d | Tiktok Song",
+          "description": "Chlöe - Don't Worry 'Bout Me (Audio/Lyrics) | i got g-o-d | Tiktok Song Stream & Download \"i got god,all over my life,he's all i ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KsOFRZhSpa8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KsOFRZhSpa8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KsOFRZhSpa8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "HQ TUNES",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-03T02:00:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "K7tE8LFQrtmsPwOXEpCDsglsiys",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XMvcQW6T7Oo"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-04T10:34:19Z",
+          "channelId": "UCG4OZ-4Z9emVJ2Rhb62FGLQ",
+          "title": "[롤드컵+뉴진스🔥🔥] 신의 권능을 보여준다면: GODS ft. NewJeans (뉴진스) (League of Legends Worlds 2023 Anthem) [가사해석/번역]",
+          "description": "10월 10일 롤드컵 개최한대서, 늘 기대하는 주제가는 언제 올라올까 했는데 이렇게 휴일 끝나자마자 바로 올라오다니.. 한국 휴일 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XMvcQW6T7Oo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XMvcQW6T7Oo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XMvcQW6T7Oo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "직키(Zickii)",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-04T10:34:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "e1MFKIJJV3vryQrXvoJAWOB37bI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MajVm9EJq6Q"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-21T11:45:01Z",
+          "channelId": "UC681VWKURHQtBgn0kOdjvtA",
+          "title": "𝐆𝐨𝐝 𝐌𝐞𝐬𝐬𝐚𝐠𝐞: I&#39;m with you | God Message Today | God&#39;s Message Now",
+          "description": "God Message: I'm with you | God Message Today | God's Message Now ❤✝️🙏️ If you like our video, then subscribe ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MajVm9EJq6Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MajVm9EJq6Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MajVm9EJq6Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "God's Message Now",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-21T11:45:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "h_BQSlx7pPx24R7y-0gDp_eqTMo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NeEHHC8I_Wc"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-05T13:36:47Z",
+          "channelId": "UC681VWKURHQtBgn0kOdjvtA",
+          "title": "My Promise To YOU | Gods message today | God blessings message | God&#39;s Message Now",
+          "description": "My Promise To YOU | Gods message today | God blessings message | God's Message Now ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NeEHHC8I_Wc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NeEHHC8I_Wc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NeEHHC8I_Wc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "God's Message Now",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-05T13:36:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9jcMS5jqltZc4N3dGDwsyY-qEoA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "y81yIo1_3o8"
+        },
+        "snippet": {
+          "publishedAt": "2021-03-20T16:24:48Z",
+          "channelId": "UC-ALwi5m6Eq7mAFMtQ2cKow",
+          "title": "CeCe Winans: Goodness of God (Live)",
+          "description": "CeCe Winans has returned with one of her best albums yet full of praise and worship songs. Here's her powerful, tear jerking take ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/y81yIo1_3o8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/y81yIo1_3o8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/y81yIo1_3o8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Marquis Robertson",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-03-20T16:24:48Z"
+        }
+      }
+    ]
+  }
