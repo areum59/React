@@ -21,15 +21,10 @@ export default function Videos() {
 
     return (
       <>
-        <div>
-          Videos {keyword ? `${keyword}` : "🔥🔥🔥🔥🔥"}
-          {/* keyword가 존재 한다면 keyword에 관한 리스트를, 없다면 🔥🔥🔥🔥🔥을 보여준다 */}
-        </div>
-
         {isLoding && <p>Loding...</p>}
         {error && <p>에러가 발생했다! 🤔</p>}
         {videos && (
-            <ul>
+            <ul className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-2 gap-y-4'>
                 {videos.map(video => (
                     <VideoCard key={video.id} video={video} />
                 ))}
