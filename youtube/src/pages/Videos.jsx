@@ -2,12 +2,12 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query'
 import VideoCard from '../components/VideoCard';
-import Youtube from '../api/youtube';
-// import FakeYoutube from '../api/fakeYoutube';
+import { useYoutubeApi } from '../context/YoutubeContext';
 
 
 export default function Videos() {
     const { keyword } = useParams();
+    const { youtube } = useYoutubeApi()
     const {
         isLoding,
         error,
@@ -15,8 +15,6 @@ export default function Videos() {
     } = useQuery({
         queryKey: ["videos", keyword], // 배열의 형태로 지정.
         queryFn: async () => {
-            const youtube = new Youtube();
-            // const youtube = new FakeYoutube();
             return youtube.search(keyword);
         },
     });
