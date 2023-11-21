@@ -1,579 +1,2340 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "FkGNQB5vTZofwBa8wrXcmSy6cMg",
+  "etag": "T8_lDZYqL8ElqVtQbJjQ-W8mM5M",
   "items": [
-    {
-      "kind": "youtube#video",
-      "etag": "sqrsxXybQb7FUAHO1wuTILWB8D8",
-      "id": "uiz7EsMPsuw",
-      "snippet": {
-        "publishedAt": "2023-11-19T11:46:12Z",
-        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
-        "title": "NewJeans (뉴진스) - GODS | Worlds 2023 Finals Opening Ceremony Presented by Mastercard",
-        "description": "Watch the live performance of GODS by NewJeans during the Worlds 2023 Finals Opening Ceremony.\n\nFor all things Worlds, visit http://www.lolesports.com\n\nMORE RIOT GAMES MUSIC:\nhttps://www.youtube.com/c/riotgamesmusic\n\nPLAY LEAGUE OF LEGENDS:\nhttp://riot.com/signup",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/uiz7EsMPsuw/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#video",
+          "etag": "dWzQ312LsJ-EP8aJgCOhHNj96aY",
+          "id": "uiz7EsMPsuw",
+          "snippet": {
+              "publishedAt": "2023-11-19T11:46:12Z",
+              "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+              "title": "NewJeans (뉴진스) - GODS | Worlds 2023 Finals Opening Ceremony Presented by Mastercard",
+              "description": "Watch the live performance of GODS by NewJeans during the Worlds 2023 Finals Opening Ceremony.\n\nFor all things Worlds, visit http://www.lolesports.com\n\nMORE RIOT GAMES MUSIC:\nhttps://www.youtube.com/c/riotgamesmusic\n\nPLAY LEAGUE OF LEGENDS:\nhttp://riot.com/signup",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/uiz7EsMPsuw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/uiz7EsMPsuw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/uiz7EsMPsuw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/uiz7EsMPsuw/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/uiz7EsMPsuw/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "League of Legends",
+              "tags": [
+                  "Riot Games",
+                  "Riot",
+                  "League of Legends",
+                  "League",
+                  "LoL",
+                  "MOBA"
+              ],
+              "categoryId": "20",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "en",
+              "localized": {
+                  "title": "NewJeans (뉴진스) - GODS | Worlds 2023 Finals Opening Ceremony Presented by Mastercard",
+                  "description": "Watch the live performance of GODS by NewJeans during the Worlds 2023 Finals Opening Ceremony.\n\nFor all things Worlds, visit http://www.lolesports.com\n\nMORE RIOT GAMES MUSIC:\nhttps://www.youtube.com/c/riotgamesmusic\n\nPLAY LEAGUE OF LEGENDS:\nhttp://riot.com/signup"
+              },
+              "defaultAudioLanguage": "en"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/uiz7EsMPsuw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
+          "contentDetails": {
+              "duration": "PT3M39S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "false",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
           },
-          "high": {
-            "url": "https://i.ytimg.com/vi/uiz7EsMPsuw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/uiz7EsMPsuw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/uiz7EsMPsuw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
+          "statistics": {
+              "viewCount": "2289186",
+              "likeCount": "112627",
+              "favoriteCount": "0",
+              "commentCount": "4548"
           }
-        },
-        "channelTitle": "League of Legends",
-        "tags": [
-          "Riot Games",
-          "Riot",
-          "League of Legends",
-          "League",
-          "LoL",
-          "MOBA"
-        ],
-        "categoryId": "20",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "NewJeans (뉴진스) - GODS | Worlds 2023 Finals Opening Ceremony Presented by Mastercard",
-          "description": "Watch the live performance of GODS by NewJeans during the Worlds 2023 Finals Opening Ceremony.\n\nFor all things Worlds, visit http://www.lolesports.com\n\nMORE RIOT GAMES MUSIC:\nhttps://www.youtube.com/c/riotgamesmusic\n\nPLAY LEAGUE OF LEGENDS:\nhttp://riot.com/signup"
-        },
-        "defaultAudioLanguage": "en"
       },
-      "contentDetails": {
-        "duration": "PT3M39S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "2257249",
-        "likeCount": "111338",
-        "favoriteCount": "0",
-        "commentCount": "4447"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "AJyKjs5c58SJlAzMl_314T0somg",
-      "id": "BmC1cmItiGs",
-      "snippet": {
-        "publishedAt": "2023-11-17T09:00:08Z",
-        "channelId": "UCQ2O-iftmnlfrBuNsUUTofQ",
-        "title": "10주년기념와글",
-        "description": "11주년에도 또 모이기로 약속해 (feat. 응답하라 칠봉이)\n\n#채널십오야 #와글와글 #유료광고포함 \n#응답하라1994 #응사",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/BmC1cmItiGs/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#video",
+          "etag": "8u-9qdo9fg_FLCaMrotMF8KTrH4",
+          "id": "BmC1cmItiGs",
+          "snippet": {
+              "publishedAt": "2023-11-17T09:00:08Z",
+              "channelId": "UCQ2O-iftmnlfrBuNsUUTofQ",
+              "title": "10주년기념와글",
+              "description": "11주년에도 또 모이기로 약속해 (feat. 응답하라 칠봉이)\n\n#채널십오야 #와글와글 #유료광고포함 \n#응답하라1994 #응사",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/BmC1cmItiGs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/BmC1cmItiGs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/BmC1cmItiGs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/BmC1cmItiGs/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/BmC1cmItiGs/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "채널십오야",
+              "tags": [
+                  "나영석",
+                  "나PD",
+                  "아간세",
+                  "아이슬란드간세끼",
+                  "이수근",
+                  "수근세끼",
+                  "은지원",
+                  "지원세끼",
+                  "삼시세끼",
+                  "세끼",
+                  "신효정",
+                  "나피디",
+                  "묘한이",
+                  "tvN",
+                  "라끼남",
+                  "라면",
+                  "라면끼리는남자",
+                  "강호동",
+                  "양정우",
+                  "육봉선생",
+                  "6봉선생",
+                  "라면먹방",
+                  "마포멋쟁이",
+                  "마포",
+                  "멋쟁이",
+                  "송민호",
+                  "표지훈",
+                  "민호",
+                  "지훈",
+                  "피오",
+                  "MINO",
+                  "PO",
+                  "P.O",
+                  "위너",
+                  "WINNER",
+                  "송표",
+                  "표송",
+                  "패션",
+                  "패션유튜버",
+                  "패션유튜브",
+                  "삼시네세끼",
+                  "달나라공약이행프로젝트",
+                  "달나라프로젝트",
+                  "달나라",
+                  "젝스키스",
+                  "젝키",
+                  "Sechs Kies",
+                  "슬의",
+                  "슬기로운하드털이",
+                  "슬의생",
+                  "신원호",
+                  "조정석",
+                  "유연석",
+                  "장겨울",
+                  "hospitalplaylist",
+                  "이식당",
+                  "나홀로이식당",
+                  "나노",
+                  "우주",
+                  "김준",
+                  "어깨춤",
+                  "언제까지어깨춤을추게할거야",
+                  "규현",
+                  "조규현",
+                  "조정뱅이",
+                  "슈퍼주니어",
+                  "superjunior",
+                  "슈주",
+                  "악마는정남이를입는다",
+                  "악마정남",
+                  "배정남",
+                  "출장십오야",
+                  "출장",
+                  "슬기로운캠핑생활",
+                  "캠핑생활",
+                  "슬캠",
+                  "내과박원장",
+                  "이서진",
+                  "BH",
+                  "BTS",
+                  "하이브",
+                  "hybe",
+                  "스타쉽",
+                  "starship",
+                  "txt",
+                  "르세라핌",
+                  "lesserafim",
+                  "세븐틴",
+                  "seventeen",
+                  "지구오락실",
+                  "지락실",
+                  "토롱이",
+                  "napd",
+                  "na pd"
+              ],
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "ko",
+              "localized": {
+                  "title": "10주년기념와글",
+                  "description": "11주년에도 또 모이기로 약속해 (feat. 응답하라 칠봉이)\n\n#채널십오야 #와글와글 #유료광고포함 \n#응답하라1994 #응사"
+              },
+              "defaultAudioLanguage": "ko"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/BmC1cmItiGs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
+          "contentDetails": {
+              "duration": "PT46M",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "false",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
           },
-          "high": {
-            "url": "https://i.ytimg.com/vi/BmC1cmItiGs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/BmC1cmItiGs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/BmC1cmItiGs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
+          "statistics": {
+              "viewCount": "3423803",
+              "likeCount": "50804",
+              "favoriteCount": "0",
+              "commentCount": "3154"
           }
-        },
-        "channelTitle": "채널십오야",
-        "tags": [
-          "나영석",
-          "나PD",
-          "아간세",
-          "아이슬란드간세끼",
-          "이수근",
-          "수근세끼",
-          "은지원",
-          "지원세끼",
-          "삼시세끼",
-          "세끼",
-          "신효정",
-          "나피디",
-          "묘한이",
-          "tvN",
-          "라끼남",
-          "라면",
-          "라면끼리는남자",
-          "강호동",
-          "양정우",
-          "육봉선생",
-          "6봉선생",
-          "라면먹방",
-          "마포멋쟁이",
-          "마포",
-          "멋쟁이",
-          "송민호",
-          "표지훈",
-          "민호",
-          "지훈",
-          "피오",
-          "MINO",
-          "PO",
-          "P.O",
-          "위너",
-          "WINNER",
-          "송표",
-          "표송",
-          "패션",
-          "패션유튜버",
-          "패션유튜브",
-          "삼시네세끼",
-          "달나라공약이행프로젝트",
-          "달나라프로젝트",
-          "달나라",
-          "젝스키스",
-          "젝키",
-          "Sechs Kies",
-          "슬의",
-          "슬기로운하드털이",
-          "슬의생",
-          "신원호",
-          "조정석",
-          "유연석",
-          "장겨울",
-          "hospitalplaylist",
-          "이식당",
-          "나홀로이식당",
-          "나노",
-          "우주",
-          "김준",
-          "어깨춤",
-          "언제까지어깨춤을추게할거야",
-          "규현",
-          "조규현",
-          "조정뱅이",
-          "슈퍼주니어",
-          "superjunior",
-          "슈주",
-          "악마는정남이를입는다",
-          "악마정남",
-          "배정남",
-          "출장십오야",
-          "출장",
-          "슬기로운캠핑생활",
-          "캠핑생활",
-          "슬캠",
-          "내과박원장",
-          "이서진",
-          "BH",
-          "BTS",
-          "하이브",
-          "hybe",
-          "스타쉽",
-          "starship",
-          "txt",
-          "르세라핌",
-          "lesserafim",
-          "세븐틴",
-          "seventeen",
-          "지구오락실",
-          "지락실",
-          "토롱이",
-          "napd",
-          "na pd"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "ko",
-        "localized": {
-          "title": "10주년기념와글",
-          "description": "11주년에도 또 모이기로 약속해 (feat. 응답하라 칠봉이)\n\n#채널십오야 #와글와글 #유료광고포함 \n#응답하라1994 #응사"
-        },
-        "defaultAudioLanguage": "ko"
       },
-      "contentDetails": {
-        "duration": "PT46M",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "3410601",
-        "likeCount": "50649",
-        "favoriteCount": "0",
-        "commentCount": "3148"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "L5twRJVo64DSpu6ytrf7TTDw_WU",
-      "id": "Tw0EKb0R28Y",
-      "snippet": {
-        "publishedAt": "2023-11-20T01:50:00Z",
-        "channelId": "UC9ZmFEgVwLieP6FZYtAsy9g",
-        "title": "NewJeans - \"Super Shy\" + \"OMG\" [2023 Billboard Music Awards]",
-        "description": "#BBMAs #NewJeans #BillboardMusicAwards\n\nNewJeans perform \"Super Shy\" and \"OMG\" at the 2023 Billboard Music Awards.\n\nTwitter: https://twitter.com/bbmas \nFacebook: https://www.facebook.com/TheBBMAs/ \nInstagram: https://instagram.com/BBMAs \nYouTube: https://www.youtube.com/bbmas \nTikTok: https://tiktok.com/@BBMAs \nThreads: https://threads.net/bbmas \n\nThe “2023 Billboard Music Awards” (BBMAs) celebrate music’s greatest achievements, honoring the year’s hottest names in music determined by year-end performance metrics on the Billboard charts. The BBMAs are delivering a reimagined award show concept that will entertain fans with music and exclusive content, including winner celebrations, behind-the-scenes moments, and performances created by the world’s biggest chart-topping artists. Performances and award celebrations will take place in global locations, in the midst of sold-out tours, and in custom venues – all with bespoke BBMAs creative.\n\nFor all of the award categories go to http://www.billboardmusicawards.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Tw0EKb0R28Y/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#video",
+          "etag": "k0q2xMY2Hhc3Tlg7GUSuHUPtSUA",
+          "id": "Tw0EKb0R28Y",
+          "snippet": {
+              "publishedAt": "2023-11-20T01:50:00Z",
+              "channelId": "UC9ZmFEgVwLieP6FZYtAsy9g",
+              "title": "NewJeans - \"Super Shy\" + \"OMG\" [2023 Billboard Music Awards]",
+              "description": "#BBMAs #NewJeans #BillboardMusicAwards\n\nNewJeans perform \"Super Shy\" and \"OMG\" at the 2023 Billboard Music Awards.\n\nTwitter: https://twitter.com/bbmas \nFacebook: https://www.facebook.com/TheBBMAs/ \nInstagram: https://instagram.com/BBMAs \nYouTube: https://www.youtube.com/bbmas \nTikTok: https://tiktok.com/@BBMAs \nThreads: https://threads.net/bbmas \n\nThe “2023 Billboard Music Awards” (BBMAs) celebrate music’s greatest achievements, honoring the year’s hottest names in music determined by year-end performance metrics on the Billboard charts. The BBMAs are delivering a reimagined award show concept that will entertain fans with music and exclusive content, including winner celebrations, behind-the-scenes moments, and performances created by the world’s biggest chart-topping artists. Performances and award celebrations will take place in global locations, in the midst of sold-out tours, and in custom venues – all with bespoke BBMAs creative.\n\nFor all of the award categories go to http://www.billboardmusicawards.com",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Tw0EKb0R28Y/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Tw0EKb0R28Y/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Tw0EKb0R28Y/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/Tw0EKb0R28Y/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/Tw0EKb0R28Y/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Billboard Music Awards",
+              "tags": [
+                  "BBMAs",
+                  "Billboard Music Awards",
+                  "Red Carpet",
+                  "Billboard Music Awards 2023",
+                  "BBMAs 2023",
+                  "BBMAs Live",
+                  "BBMAs Full Show",
+                  "BBMAs Red Carpet",
+                  "BBMAs Performance",
+                  "Billboard Music Awards Full Show",
+                  "Billboard Music Awards 2023 Performances",
+                  "Billboard Music Awards 2023 Red Carpet",
+                  "BBMAs bts",
+                  "Billboard Top 50 This Week",
+                  "Billboard 2023",
+                  "Billboard Latin Music Awards 2023",
+                  "Billboard Hot 100 This Week",
+                  "Billboard Top 10 This Week",
+                  "Winner",
+                  "NewJeans",
+                  "Super Shy",
+                  "OMG",
+                  "New Jeans",
+                  "ETA",
+                  "Playlist",
+                  "Ditto",
+                  "ASAP"
+              ],
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "NewJeans - \"Super Shy\" + \"OMG\" [2023 Billboard Music Awards]",
+                  "description": "#BBMAs #NewJeans #BillboardMusicAwards\n\nNewJeans perform \"Super Shy\" and \"OMG\" at the 2023 Billboard Music Awards.\n\nTwitter: https://twitter.com/bbmas \nFacebook: https://www.facebook.com/TheBBMAs/ \nInstagram: https://instagram.com/BBMAs \nYouTube: https://www.youtube.com/bbmas \nTikTok: https://tiktok.com/@BBMAs \nThreads: https://threads.net/bbmas \n\nThe “2023 Billboard Music Awards” (BBMAs) celebrate music’s greatest achievements, honoring the year’s hottest names in music determined by year-end performance metrics on the Billboard charts. The BBMAs are delivering a reimagined award show concept that will entertain fans with music and exclusive content, including winner celebrations, behind-the-scenes moments, and performances created by the world’s biggest chart-topping artists. Performances and award celebrations will take place in global locations, in the midst of sold-out tours, and in custom venues – all with bespoke BBMAs creative.\n\nFor all of the award categories go to http://www.billboardmusicawards.com"
+              },
+              "defaultAudioLanguage": "en"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Tw0EKb0R28Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
+          "contentDetails": {
+              "duration": "PT6M39S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "false",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
           },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Tw0EKb0R28Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Tw0EKb0R28Y/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Tw0EKb0R28Y/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
+          "statistics": {
+              "viewCount": "1590277",
+              "likeCount": "119448",
+              "favoriteCount": "0",
+              "commentCount": "3673"
           }
-        },
-        "channelTitle": "Billboard Music Awards",
-        "tags": [
-          "BBMAs",
-          "Billboard Music Awards",
-          "Red Carpet",
-          "Billboard Music Awards 2023",
-          "BBMAs 2023",
-          "BBMAs Live",
-          "BBMAs Full Show",
-          "BBMAs Red Carpet",
-          "BBMAs Performance",
-          "Billboard Music Awards Full Show",
-          "Billboard Music Awards 2023 Performances",
-          "Billboard Music Awards 2023 Red Carpet",
-          "BBMAs bts",
-          "Billboard Top 50 This Week",
-          "Billboard 2023",
-          "Billboard Latin Music Awards 2023",
-          "Billboard Hot 100 This Week",
-          "Billboard Top 10 This Week",
-          "Winner",
-          "NewJeans",
-          "Super Shy",
-          "OMG",
-          "New Jeans",
-          "ETA",
-          "Playlist",
-          "Ditto",
-          "ASAP"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "NewJeans - \"Super Shy\" + \"OMG\" [2023 Billboard Music Awards]",
-          "description": "#BBMAs #NewJeans #BillboardMusicAwards\n\nNewJeans perform \"Super Shy\" and \"OMG\" at the 2023 Billboard Music Awards.\n\nTwitter: https://twitter.com/bbmas \nFacebook: https://www.facebook.com/TheBBMAs/ \nInstagram: https://instagram.com/BBMAs \nYouTube: https://www.youtube.com/bbmas \nTikTok: https://tiktok.com/@BBMAs \nThreads: https://threads.net/bbmas \n\nThe “2023 Billboard Music Awards” (BBMAs) celebrate music’s greatest achievements, honoring the year’s hottest names in music determined by year-end performance metrics on the Billboard charts. The BBMAs are delivering a reimagined award show concept that will entertain fans with music and exclusive content, including winner celebrations, behind-the-scenes moments, and performances created by the world’s biggest chart-topping artists. Performances and award celebrations will take place in global locations, in the midst of sold-out tours, and in custom venues – all with bespoke BBMAs creative.\n\nFor all of the award categories go to http://www.billboardmusicawards.com"
-        },
-        "defaultAudioLanguage": "en"
       },
-      "contentDetails": {
-        "duration": "PT6M39S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "false",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "1545612",
-        "likeCount": "117088",
-        "favoriteCount": "0",
-        "commentCount": "3604"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "MZ7yGg85V2Dk01mO-ZDWx2udc0s",
-      "id": "Nzk-n7lZ7J4",
-      "snippet": {
-        "publishedAt": "2023-11-20T09:00:00Z",
-        "channelId": "UCkJ1rbOrsyPfBuHNfnLPm-Q",
-        "title": "THE BOYZ(더보이즈) 'WATCH IT' MV",
-        "description": "THE BOYZ ‘WATCH IT’ on iTunes : https://apple.co/47HUokq\n\n✔ More information about THE BOYZ\nhttp://www.theboyz.kr\nhttps://www.youtube.com/c/THEBOYZofficial\nhttps://weverse.onelink.me/qt3S/f766oroa\nhttps://twitter.com/IST_THEBOYZ?s=20\nhttps://www.instagram.com/official_theboyz\nhttps://www.facebook.com/officialTHEBOYZ\nhttp://cafe.daum.net/officialTHEBOYZ\n\nCopyrights 2023 ⓒ IST Entertainment. All Rights Reserved.\n\n#THEBOYZ #PHANTASY #WATCH_IT",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Nzk-n7lZ7J4/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#video",
+          "etag": "1dqR0yEsRsBMnFicaMwDdYGln2A",
+          "id": "Nzk-n7lZ7J4",
+          "snippet": {
+              "publishedAt": "2023-11-20T09:00:00Z",
+              "channelId": "UCkJ1rbOrsyPfBuHNfnLPm-Q",
+              "title": "THE BOYZ(더보이즈) 'WATCH IT' MV",
+              "description": "THE BOYZ ‘WATCH IT’ on iTunes : https://apple.co/47HUokq\n\n✔ More information about THE BOYZ\nhttp://www.theboyz.kr\nhttps://www.youtube.com/c/THEBOYZofficial\nhttps://weverse.onelink.me/qt3S/f766oroa\nhttps://twitter.com/IST_THEBOYZ?s=20\nhttps://www.instagram.com/official_theboyz\nhttps://www.facebook.com/officialTHEBOYZ\nhttp://cafe.daum.net/officialTHEBOYZ\n\nCopyrights 2023 ⓒ IST Entertainment. All Rights Reserved.\n\n#THEBOYZ #PHANTASY #WATCH_IT",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Nzk-n7lZ7J4/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Nzk-n7lZ7J4/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Nzk-n7lZ7J4/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/Nzk-n7lZ7J4/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/Nzk-n7lZ7J4/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "THE BOYZ",
+              "tags": [
+                  "크래커엔터테인먼트",
+                  "Cre.ker Entertainment",
+                  "크래커",
+                  "Creker",
+                  "THE BOYZ",
+                  "더보이즈",
+                  "BOY GROUP",
+                  "IDOL",
+                  "IDOL GROUP",
+                  "아이돌그룹",
+                  "BOY",
+                  "일상캠",
+                  "리얼리티",
+                  "상연",
+                  "제이콥",
+                  "영훈",
+                  "현재",
+                  "주연",
+                  "케빈",
+                  "주학년",
+                  "선우",
+                  "에릭",
+                  "SANGYEON",
+                  "JACOB",
+                  "YOUNGHOON",
+                  "HYUNJAE",
+                  "JUYEON",
+                  "KEVIN",
+                  "JUHAKNYEON",
+                  "NEW",
+                  "SUNWOO",
+                  "ERIC",
+                  "EXO",
+                  "BTS",
+                  "TWICE",
+                  "TXT",
+                  "BLACKPINK",
+                  "K-POP",
+                  "D.D.D",
+                  "WHITE",
+                  "REVEAL",
+                  "THE STEALER",
+                  "THRILL RIDE",
+                  "스릴라이드",
+                  "IST",
+                  "IST ENTERTAINMENT",
+                  "아이에스티",
+                  "아이에스티엔터테인먼트",
+                  "위스퍼",
+                  "WHISPER",
+                  "ROAR",
+                  "로어",
+                  "LIPGLOSS",
+                  "립글로즈",
+                  "PHANTASY",
+                  "판타지"
+              ],
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "THE BOYZ(더보이즈) 'WATCH IT' MV",
+                  "description": "THE BOYZ ‘WATCH IT’ on iTunes : https://apple.co/47HUokq\n\n✔ More information about THE BOYZ\nhttp://www.theboyz.kr\nhttps://www.youtube.com/c/THEBOYZofficial\nhttps://weverse.onelink.me/qt3S/f766oroa\nhttps://twitter.com/IST_THEBOYZ?s=20\nhttps://www.instagram.com/official_theboyz\nhttps://www.facebook.com/officialTHEBOYZ\nhttp://cafe.daum.net/officialTHEBOYZ\n\nCopyrights 2023 ⓒ IST Entertainment. All Rights Reserved.\n\n#THEBOYZ #PHANTASY #WATCH_IT"
+              },
+              "defaultAudioLanguage": "en"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Nzk-n7lZ7J4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
+          "contentDetails": {
+              "duration": "PT3M4S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "true",
+              "licensedContent": false,
+              "contentRating": {},
+              "projection": "rectangular"
           },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Nzk-n7lZ7J4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Nzk-n7lZ7J4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Nzk-n7lZ7J4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
+          "statistics": {
+              "viewCount": "10058103",
+              "likeCount": "73342",
+              "favoriteCount": "0",
+              "commentCount": "6517"
           }
-        },
-        "channelTitle": "THE BOYZ",
-        "tags": [
-          "크래커엔터테인먼트",
-          "Cre.ker Entertainment",
-          "크래커",
-          "Creker",
-          "THE BOYZ",
-          "더보이즈",
-          "BOY GROUP",
-          "IDOL",
-          "IDOL GROUP",
-          "아이돌그룹",
-          "BOY",
-          "일상캠",
-          "리얼리티",
-          "상연",
-          "제이콥",
-          "영훈",
-          "현재",
-          "주연",
-          "케빈",
-          "주학년",
-          "선우",
-          "에릭",
-          "SANGYEON",
-          "JACOB",
-          "YOUNGHOON",
-          "HYUNJAE",
-          "JUYEON",
-          "KEVIN",
-          "JUHAKNYEON",
-          "NEW",
-          "SUNWOO",
-          "ERIC",
-          "EXO",
-          "BTS",
-          "TWICE",
-          "TXT",
-          "BLACKPINK",
-          "K-POP",
-          "D.D.D",
-          "WHITE",
-          "REVEAL",
-          "THE STEALER",
-          "THRILL RIDE",
-          "스릴라이드",
-          "IST",
-          "IST ENTERTAINMENT",
-          "아이에스티",
-          "아이에스티엔터테인먼트",
-          "위스퍼",
-          "WHISPER",
-          "ROAR",
-          "로어",
-          "LIPGLOSS",
-          "립글로즈",
-          "PHANTASY",
-          "판타지"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "THE BOYZ(더보이즈) 'WATCH IT' MV",
-          "description": "THE BOYZ ‘WATCH IT’ on iTunes : https://apple.co/47HUokq\n\n✔ More information about THE BOYZ\nhttp://www.theboyz.kr\nhttps://www.youtube.com/c/THEBOYZofficial\nhttps://weverse.onelink.me/qt3S/f766oroa\nhttps://twitter.com/IST_THEBOYZ?s=20\nhttps://www.instagram.com/official_theboyz\nhttps://www.facebook.com/officialTHEBOYZ\nhttp://cafe.daum.net/officialTHEBOYZ\n\nCopyrights 2023 ⓒ IST Entertainment. All Rights Reserved.\n\n#THEBOYZ #PHANTASY #WATCH_IT"
-        },
-        "defaultAudioLanguage": "en"
       },
-      "contentDetails": {
-        "duration": "PT3M4S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "true",
-        "licensedContent": false,
-        "contentRating": {},
-        "projection": "rectangular"
-      },
-      "statistics": {
-        "viewCount": "9439065",
-        "likeCount": "70982",
-        "favoriteCount": "0",
-        "commentCount": "6310"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "ljZW5aJvGIwedsghNy1efzfyLCM",
-      "id": "fLSNTYCHSg4",
-      "snippet": {
-        "publishedAt": "2023-11-19T08:00:19Z",
-        "channelId": "UCN5XdqTDRbyjXPF5NXUqWdA",
-        "title": "[sub]화내서 귀엽고, 잘 먹어서 귀엽고, 귀여워서 귀엽고, 웃겨서 귀엽고...(더보기)",
-        "description": "민아야 내가 꼭 불러줄게...\n\n[요정재형 X 네스카페 돌체구스토]\n마스터, 절 부르셨나요?\n터치로 디자인은 심플하게, 작동은 편리하게 \n온도, 물양, 에스프레소 부스트까지 내 취향대로 조절가능한 돌체구스토 지니오 S 쉐어 머신과\n키스를 부르는 입술을 만들어 줄 기분 좋은 달콤함, 스타벅스 토피넛향 라테까지.\n이번 연말엔 요정님처럼 친구들 불러모아 맛있는 음식과 함께 커피 한 잔 곁들이는 홈파티 어때요?\nhttps://brand.naver.com/nestlestore/shoppingstory/detail?id=5000854585&channelUid=2sWDyTcyKQnkUgUMLuD6z\n\n#신민아 #3일의휴가\n\n00:00 하이라이트\n01:00 오프닝\n04:27 귀여운 민아 입장💕\n37:47 귀여운 민아 퇴장🫶",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/fLSNTYCHSg4/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#video",
+          "etag": "bCVgvh_iUKqYo3izHAwR6hoCq0I",
+          "id": "fLSNTYCHSg4",
+          "snippet": {
+              "publishedAt": "2023-11-19T08:00:19Z",
+              "channelId": "UCN5XdqTDRbyjXPF5NXUqWdA",
+              "title": "[sub]화내서 귀엽고, 잘 먹어서 귀엽고, 귀여워서 귀엽고, 웃겨서 귀엽고...(더보기)",
+              "description": "민아야 내가 꼭 불러줄게...\n\n[요정재형 X 네스카페 돌체구스토]\n마스터, 절 부르셨나요?\n터치로 디자인은 심플하게, 작동은 편리하게 \n온도, 물양, 에스프레소 부스트까지 내 취향대로 조절가능한 돌체구스토 지니오 S 쉐어 머신과\n키스를 부르는 입술을 만들어 줄 기분 좋은 달콤함, 스타벅스 토피넛향 라테까지.\n이번 연말엔 요정님처럼 친구들 불러모아 맛있는 음식과 함께 커피 한 잔 곁들이는 홈파티 어때요?\nhttps://brand.naver.com/nestlestore/shoppingstory/detail?id=5000854585&channelUid=2sWDyTcyKQnkUgUMLuD6z\n\n#신민아 #3일의휴가\n\n00:00 하이라이트\n01:00 오프닝\n04:27 귀여운 민아 입장💕\n37:47 귀여운 민아 퇴장🫶",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/fLSNTYCHSg4/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/fLSNTYCHSg4/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/fLSNTYCHSg4/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/fLSNTYCHSg4/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/fLSNTYCHSg4/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "요정재형",
+              "tags": [
+                  "정재형",
+                  "요정재형",
+                  "요정",
+                  "페어리",
+                  "강민경",
+                  "걍밍경",
+                  "유재석",
+                  "뜬뜬",
+                  "뚠뚠",
+                  "이미주",
+                  "미주",
+                  "런닝맨",
+                  "이적",
+                  "다행이다",
+                  "안테나뮤직",
+                  "안테나",
+                  "유희열",
+                  "이효리",
+                  "해듬이",
+                  "강아지",
+                  "반려견",
+                  "반려인",
+                  "해듬",
+                  "시각장애인",
+                  "시각장애인 안내견",
+                  "안내견",
+                  "안내견학교",
+                  "삼성화재 안내견학교",
+                  "피아노",
+                  "피아노 연주",
+                  "정재형 피아노",
+                  "무한도전",
+                  "무한도전 정재형",
+                  "순정마초",
+                  "무한도전 순정마초",
+                  "정재형 순정마초",
+                  "애견인",
+                  "파리지앵",
+                  "프랑스어",
+                  "화분",
+                  "정원",
+                  "가드닝",
+                  "베란다 가드닝",
+                  "리트리버",
+                  "래브라도 리트리버",
+                  "엄정화",
+                  "이상순",
+                  "성시경",
+                  "running",
+                  "식물",
+                  "식집사",
+                  "식물 키우기",
+                  "베란다 정원",
+                  "정원 꾸미기",
+                  "신민아",
+                  "김우빈",
+                  "신민아 작품",
+                  "신민아 김우빈",
+                  "신민아 실물",
+                  "신민아 리즈",
+                  "신민아 연애",
+                  "신민아 레전드",
+                  "신민아 이제훈",
+                  "3일의휴가",
+                  "3일의 휴가 예고편",
+                  "3일의휴가 예고",
+                  "신민아 유퀴즈",
+                  "신민아 예능"
+              ],
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "[sub]화내서 귀엽고, 잘 먹어서 귀엽고, 귀여워서 귀엽고, 웃겨서 귀엽고...(더보기)",
+                  "description": "민아야 내가 꼭 불러줄게...\n\n[요정재형 X 네스카페 돌체구스토]\n마스터, 절 부르셨나요?\n터치로 디자인은 심플하게, 작동은 편리하게 \n온도, 물양, 에스프레소 부스트까지 내 취향대로 조절가능한 돌체구스토 지니오 S 쉐어 머신과\n키스를 부르는 입술을 만들어 줄 기분 좋은 달콤함, 스타벅스 토피넛향 라테까지.\n이번 연말엔 요정님처럼 친구들 불러모아 맛있는 음식과 함께 커피 한 잔 곁들이는 홈파티 어때요?\nhttps://brand.naver.com/nestlestore/shoppingstory/detail?id=5000854585&channelUid=2sWDyTcyKQnkUgUMLuD6z\n\n#신민아 #3일의휴가\n\n00:00 하이라이트\n01:00 오프닝\n04:27 귀여운 민아 입장💕\n37:47 귀여운 민아 퇴장🫶"
+              },
+              "defaultAudioLanguage": "ko"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/fLSNTYCHSg4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
+          "contentDetails": {
+              "duration": "PT38M22S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "true",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
           },
-          "high": {
-            "url": "https://i.ytimg.com/vi/fLSNTYCHSg4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/fLSNTYCHSg4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/fLSNTYCHSg4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
+          "statistics": {
+              "viewCount": "458458",
+              "likeCount": "9398",
+              "favoriteCount": "0",
+              "commentCount": "621"
           }
-        },
-        "channelTitle": "요정재형",
-        "tags": [
-          "정재형",
-          "요정재형",
-          "요정",
-          "페어리",
-          "강민경",
-          "걍밍경",
-          "유재석",
-          "뜬뜬",
-          "뚠뚠",
-          "이미주",
-          "미주",
-          "런닝맨",
-          "이적",
-          "다행이다",
-          "안테나뮤직",
-          "안테나",
-          "유희열",
-          "이효리",
-          "해듬이",
-          "강아지",
-          "반려견",
-          "반려인",
-          "해듬",
-          "시각장애인",
-          "시각장애인 안내견",
-          "안내견",
-          "안내견학교",
-          "삼성화재 안내견학교",
-          "피아노",
-          "피아노 연주",
-          "정재형 피아노",
-          "무한도전",
-          "무한도전 정재형",
-          "순정마초",
-          "무한도전 순정마초",
-          "정재형 순정마초",
-          "애견인",
-          "파리지앵",
-          "프랑스어",
-          "화분",
-          "정원",
-          "가드닝",
-          "베란다 가드닝",
-          "리트리버",
-          "래브라도 리트리버",
-          "엄정화",
-          "이상순",
-          "성시경",
-          "running",
-          "식물",
-          "식집사",
-          "식물 키우기",
-          "베란다 정원",
-          "정원 꾸미기",
-          "신민아",
-          "김우빈",
-          "신민아 작품",
-          "신민아 김우빈",
-          "신민아 실물",
-          "신민아 리즈",
-          "신민아 연애",
-          "신민아 레전드",
-          "신민아 이제훈",
-          "3일의휴가",
-          "3일의 휴가 예고편",
-          "3일의휴가 예고",
-          "신민아 유퀴즈",
-          "신민아 예능"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "[sub]화내서 귀엽고, 잘 먹어서 귀엽고, 귀여워서 귀엽고, 웃겨서 귀엽고...(더보기)",
-          "description": "민아야 내가 꼭 불러줄게...\n\n[요정재형 X 네스카페 돌체구스토]\n마스터, 절 부르셨나요?\n터치로 디자인은 심플하게, 작동은 편리하게 \n온도, 물양, 에스프레소 부스트까지 내 취향대로 조절가능한 돌체구스토 지니오 S 쉐어 머신과\n키스를 부르는 입술을 만들어 줄 기분 좋은 달콤함, 스타벅스 토피넛향 라테까지.\n이번 연말엔 요정님처럼 친구들 불러모아 맛있는 음식과 함께 커피 한 잔 곁들이는 홈파티 어때요?\nhttps://brand.naver.com/nestlestore/shoppingstory/detail?id=5000854585&channelUid=2sWDyTcyKQnkUgUMLuD6z\n\n#신민아 #3일의휴가\n\n00:00 하이라이트\n01:00 오프닝\n04:27 귀여운 민아 입장💕\n37:47 귀여운 민아 퇴장🫶"
-        },
-        "defaultAudioLanguage": "ko"
       },
-      "contentDetails": {
-        "duration": "PT38M22S",
-        "dimension": "2d",
-        "definition": "hd",
-        "caption": "true",
-        "licensedContent": true,
-        "contentRating": {},
-        "projection": "rectangular"
+      {
+          "kind": "youtube#video",
+          "etag": "p8e18l8QhdlzNqDRQOpqbeqZSnM",
+          "id": "AH8A79BrTEY",
+          "snippet": {
+              "publishedAt": "2023-11-19T11:43:14Z",
+              "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+              "title": "Worlds 2023 Finals Opening Ceremony Presented by Mastercard ft. NewJeans, HEARTSTEEL, and More!",
+              "description": "Watch the Worlds 2023 Finals Opening Ceremony featuring live performances by NewJeans, HEARTSTEEL, and much more!\n\nFor all things Worlds, visit http://www.lolesports.com\n\nMORE RIOT GAMES MUSIC:\nhttps://www.youtube.com/c/riotgamesmusic\n\nPLAY LEAGUE OF LEGENDS:\nhttp://riot.com/signup",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/AH8A79BrTEY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/AH8A79BrTEY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/AH8A79BrTEY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/AH8A79BrTEY/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/AH8A79BrTEY/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "League of Legends",
+              "tags": [
+                  "Riot Games",
+                  "Riot",
+                  "League of Legends",
+                  "League",
+                  "LoL",
+                  "MOBA"
+              ],
+              "categoryId": "20",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "en",
+              "localized": {
+                  "title": "Worlds 2023 Finals Opening Ceremony Presented by Mastercard ft. NewJeans, HEARTSTEEL, and More!",
+                  "description": "Watch the Worlds 2023 Finals Opening Ceremony featuring live performances by NewJeans, HEARTSTEEL, and much more!\n\nFor all things Worlds, visit http://www.lolesports.com\n\nMORE RIOT GAMES MUSIC:\nhttps://www.youtube.com/c/riotgamesmusic\n\nPLAY LEAGUE OF LEGENDS:\nhttp://riot.com/signup"
+              },
+              "defaultAudioLanguage": "en"
+          },
+          "contentDetails": {
+              "duration": "PT13M41S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "false",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "2072919",
+              "likeCount": "98061",
+              "favoriteCount": "0",
+              "commentCount": "3697"
+          }
       },
-      "statistics": {
-        "viewCount": "450243",
-        "likeCount": "9235",
-        "favoriteCount": "0",
-        "commentCount": "614"
+      {
+          "kind": "youtube#video",
+          "etag": "PYi0zAtEX-qQNWLEcsJ0_cS92FE",
+          "id": "tdd3C5wtrBo",
+          "snippet": {
+              "publishedAt": "2023-11-19T05:00:33Z",
+              "channelId": "UCJprx3bX49vNl6Bcw01Cwfg",
+              "title": "나를 믿는 것으로부터｜Worlds 2023 EP.3 녹아웃 스테이지 4강",
+              "description": "▶️12% OFF only for T1! Enter your favorite T1 player's name for coupon codes!\nSteelSeries Official Site : https://tiny.one/t1steelseries\nDiscount code : \nFAKER \nKERIA \nONER \nZEUS \nGUMAYUSI \n\n▶️OP.GG Desktop App : https://opgg.at/t1 \n\n▶️Subscribe and support us:\nhttps://www.youtube.com/user/SKTTeam1st/?sub_confirmation=1\n\n▶️Join T1 Membership:\nhttps://t1.fan\n\nFollow T1 pages:\n▶️Official Website : https://t1.gg\n▶️Official Twitter : https://twitter.com/T1LoL\n▶️Official Facebook : https://www.facebook.com/T1LoL\n▶️Official Youtube : https://www.youtube.com/user/SKTTeam1st\n▶️Official Instagram : https://www.instagram.com/T1LoL\n▶️Official Weibo: http://www.weibo.com/SKTT1LOL\n▶️Official Shop : https://t1.gg/shop",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/tdd3C5wtrBo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/tdd3C5wtrBo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/tdd3C5wtrBo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/tdd3C5wtrBo/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/tdd3C5wtrBo/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "T1",
+              "tags": [
+                  "leagueoflegends",
+                  "lck",
+                  "lolesports",
+                  "lol",
+                  "페이커",
+                  "faker",
+                  "이상혁",
+                  "제우스",
+                  "최우제",
+                  "t1 zeus",
+                  "hide on bush",
+                  "skt",
+                  "오너",
+                  "문현준",
+                  "t1 oner",
+                  "구마유시",
+                  "이민형",
+                  "gumayusi",
+                  "케리아",
+                  "류민석",
+                  "t1 keria",
+                  "skt t1",
+                  "ㅅ1",
+                  "vpdlzj",
+                  "t1",
+                  "티원",
+                  "대환장파티",
+                  "라커룸",
+                  "히든트랙",
+                  "매드무비",
+                  "롤 강의",
+                  "t1 개인방송",
+                  "t1 스트리밍",
+                  "the locker room",
+                  "롤챔스",
+                  "롤챔스 서머",
+                  "롤챔스 스프링",
+                  "lck 결승",
+                  "롤챔스 결승",
+                  "롤드컵",
+                  "worlds",
+                  "lol worids",
+                  "롤드컵 4강",
+                  "롤드컵 결승",
+                  "samsung odyssey",
+                  "삼성 오디세이",
+                  "오딧세이",
+                  "dheltpdl",
+                  "redbull",
+                  "레드불",
+                  "fpemqnf",
+                  "배준식",
+                  "울프",
+                  "이재완",
+                  "운타라",
+                  "박의진",
+                  "티모",
+                  "스카이",
+                  "김하늘",
+                  "티스코드",
+                  "t1scord",
+                  "오프더레코드",
+                  "voice comms t1",
+                  "gen",
+                  "drx",
+                  "kt",
+                  "dk",
+                  "lsb",
+                  "ns",
+                  "kdf",
+                  "bro",
+                  "hle",
+                  "vs"
+              ],
+              "categoryId": "20",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "ko",
+              "localized": {
+                  "title": "나를 믿는 것으로부터｜Worlds 2023 EP.3 녹아웃 스테이지 4강",
+                  "description": "▶️12% OFF only for T1! Enter your favorite T1 player's name for coupon codes!\nSteelSeries Official Site : https://tiny.one/t1steelseries\nDiscount code : \nFAKER \nKERIA \nONER \nZEUS \nGUMAYUSI \n\n▶️OP.GG Desktop App : https://opgg.at/t1 \n\n▶️Subscribe and support us:\nhttps://www.youtube.com/user/SKTTeam1st/?sub_confirmation=1\n\n▶️Join T1 Membership:\nhttps://t1.fan\n\nFollow T1 pages:\n▶️Official Website : https://t1.gg\n▶️Official Twitter : https://twitter.com/T1LoL\n▶️Official Facebook : https://www.facebook.com/T1LoL\n▶️Official Youtube : https://www.youtube.com/user/SKTTeam1st\n▶️Official Instagram : https://www.instagram.com/T1LoL\n▶️Official Weibo: http://www.weibo.com/SKTT1LOL\n▶️Official Shop : https://t1.gg/shop"
+              },
+              "defaultAudioLanguage": "ko"
+          },
+          "contentDetails": {
+              "duration": "PT16M2S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "true",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "678257",
+              "likeCount": "19520",
+              "favoriteCount": "0",
+              "commentCount": "1607"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "v0Mhspx2I_VAcK0fpmINNSoCPgc",
+          "id": "3thbqHHbjBg",
+          "snippet": {
+              "publishedAt": "2023-11-19T05:44:40Z",
+              "channelId": "UCvqRdlKsE5Q8mf8YXbdIJLw",
+              "title": "T1 vs WBG | THE GLORY | Finals Tease | Worlds 2023",
+              "description": "Countless hours. Endless nights.\nThe grind has led to this moment.\nA chance at ultimate glory. \n\nTune-in to #Worlds2023 live at https://lolesports.com to watch it all unfold.\n\nPlay-Ins: October 10th - October 15th\nSwiss: October 19th - October 29th\nQuarterfinals: November 2nd - November 5th\nSemifinals: November 11th - November 12th\nFinals: November 19th \n\nFollow LoL Esports on social to stay up-to-date with the best of competitive LoL around the world:\nTwitter: https://twitter.com/lolesports\nFacebook: https://www.facebook.com/lolesports\nInstagram: https://www.instagram.com/lolesports\nTikTok: https://www.tiktok.com/@lolesports",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/3thbqHHbjBg/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/3thbqHHbjBg/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/3thbqHHbjBg/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/3thbqHHbjBg/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/3thbqHHbjBg/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "LoL Esports",
+              "tags": [
+                  "lol esports",
+                  "league of legends",
+                  "lol esports live",
+                  "lol esports highlights",
+                  "lol esports worlds",
+                  "lol esports vods",
+                  "lol esports best moments",
+                  "lol esports breakdown",
+                  "lol esports best plays",
+                  "lol esports best games",
+                  "lol esports channel",
+                  "league of legends worlds",
+                  "league of legends champions",
+                  "lol esports 2023",
+                  "lol 2023",
+                  "worlds 2023",
+                  "league of legends worlds championship",
+                  "worlds korea",
+                  "worlds 23",
+                  "lol worlds",
+                  "league worlds",
+                  "lol worlds finals",
+                  "worlds finals 2023"
+              ],
+              "categoryId": "20",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "en",
+              "localized": {
+                  "title": "T1 vs WBG | THE GLORY | Finals Tease | Worlds 2023",
+                  "description": "Countless hours. Endless nights.\nThe grind has led to this moment.\nA chance at ultimate glory. \n\nTune-in to #Worlds2023 live at https://lolesports.com to watch it all unfold.\n\nPlay-Ins: October 10th - October 15th\nSwiss: October 19th - October 29th\nQuarterfinals: November 2nd - November 5th\nSemifinals: November 11th - November 12th\nFinals: November 19th \n\nFollow LoL Esports on social to stay up-to-date with the best of competitive LoL around the world:\nTwitter: https://twitter.com/lolesports\nFacebook: https://www.facebook.com/lolesports\nInstagram: https://www.instagram.com/lolesports\nTikTok: https://www.tiktok.com/@lolesports"
+              },
+              "defaultAudioLanguage": "en"
+          },
+          "contentDetails": {
+              "duration": "PT6M23S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "true",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "833725",
+              "likeCount": "38714",
+              "favoriteCount": "0",
+              "commentCount": "1725"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "7b0b-N33RojJAkF7hxyv3bIpPgY",
+          "id": "I_5SS4OH_dU",
+          "snippet": {
+              "publishedAt": "2023-11-20T03:20:00Z",
+              "channelId": "UC9ZmFEgVwLieP6FZYtAsy9g",
+              "title": "Stray Kids - “S-Class” + “LALALALA” [2023 Billboard Music Awards]",
+              "description": "#BBMAs #StrayKids #BillboardMusicAwards\n\nStray Kids perform \"S-Class\" and \"LALALALA\" at the 2023 Billboard Music Awards.\n\nTwitter: https://twitter.com/bbmas \nFacebook: https://www.facebook.com/TheBBMAs/ \nInstagram: https://instagram.com/BBMAs \nYouTube: https://www.youtube.com/bbmas \nTikTok: https://tiktok.com/@BBMAs \nThreads: https://threads.net/bbmas \n\nThe “2023 Billboard Music Awards” (BBMAs) celebrate music’s greatest achievements, honoring the year’s hottest names in music determined by year-end performance metrics on the Billboard charts. The BBMAs are delivering a reimagined award show concept that will entertain fans with music and exclusive content, including winner celebrations, behind-the-scenes moments, and performances created by the world’s biggest chart-topping artists. Performances and award celebrations will take place in global locations, in the midst of sold-out tours, and in custom venues – all with bespoke BBMAs creative.\n\nFor all of the award categories go to http://www.billboardmusicawards.com",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/I_5SS4OH_dU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/I_5SS4OH_dU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/I_5SS4OH_dU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/I_5SS4OH_dU/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/I_5SS4OH_dU/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Billboard Music Awards",
+              "tags": [
+                  "BBMAs",
+                  "Billboard Music Awards",
+                  "Red Carpet",
+                  "Billboard Music Awards 2023",
+                  "BBMAs 2023",
+                  "BBMAs Live",
+                  "BBMAs Full Show",
+                  "BBMAs Red Carpet",
+                  "BBMAs Performance",
+                  "Billboard Music Awards Full Show",
+                  "Billboard Music Awards 2023 Performances",
+                  "Billboard Music Awards 2023 Red Carpet",
+                  "BBMAs bts",
+                  "Billboard Top 50 This Week",
+                  "Billboard 2023",
+                  "Billboard Latin Music Awards 2023",
+                  "Billboard Hot 100 This Week",
+                  "Billboard Top 10 This Week",
+                  "Stray Kids",
+                  "LALALALA",
+                  "S Class",
+                  "Maniac",
+                  "Megaverse",
+                  "Buzzfeed",
+                  "VMA",
+                  "Reaction"
+              ],
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "Stray Kids - “S-Class” + “LALALALA” [2023 Billboard Music Awards]",
+                  "description": "#BBMAs #StrayKids #BillboardMusicAwards\n\nStray Kids perform \"S-Class\" and \"LALALALA\" at the 2023 Billboard Music Awards.\n\nTwitter: https://twitter.com/bbmas \nFacebook: https://www.facebook.com/TheBBMAs/ \nInstagram: https://instagram.com/BBMAs \nYouTube: https://www.youtube.com/bbmas \nTikTok: https://tiktok.com/@BBMAs \nThreads: https://threads.net/bbmas \n\nThe “2023 Billboard Music Awards” (BBMAs) celebrate music’s greatest achievements, honoring the year’s hottest names in music determined by year-end performance metrics on the Billboard charts. The BBMAs are delivering a reimagined award show concept that will entertain fans with music and exclusive content, including winner celebrations, behind-the-scenes moments, and performances created by the world’s biggest chart-topping artists. Performances and award celebrations will take place in global locations, in the midst of sold-out tours, and in custom venues – all with bespoke BBMAs creative.\n\nFor all of the award categories go to http://www.billboardmusicawards.com"
+              },
+              "defaultAudioLanguage": "en"
+          },
+          "contentDetails": {
+              "duration": "PT5M39S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "false",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "919789",
+              "likeCount": "158423",
+              "favoriteCount": "0",
+              "commentCount": "6349"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "66z7J5o13SyUn-gAN9jRtotXgjs",
+          "id": "AZZCkl3-0JU",
+          "snippet": {
+              "publishedAt": "2023-11-18T03:00:06Z",
+              "channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
+              "title": "AOMG 헤쳐모여! 대망의 ⭐️단체 워크샵⭐️ 레쭈고ㅣ미노미노이 워크샵 EP.1",
+              "description": "미노미노이 워크샵ㅣEP.1\n\n😼미노미노이 워크샵\n💚EP.1: AOMG 헤쳐모여!\n\n💚본 콘텐츠는 ‘(주)한국인삼공사’로부터 실물 협찬 및 제작지원을 받아 제작되었습니다\n👉 홍삼정 에브리타임 필름(260mg*60매) 구매 링크 바로가기: https://me2.do/5c2NquHn\n_\n#미노이 #meenoi  #미노미노이워크샵\n#meenoiworkshop\n#AOMG\n_\nBusiness Contact : miribang@aomgofficial.com\n_\n◆ Official AOMG\nInstagram : https://instagram.com/AOMGOFFICIAL\nTwitter : https://twitter.com/AOMGOFFICIAL\nYouTube : https://youtube.com/AOMGOFFICIAL\nFacebook : https://facebook.com/AOMGOFFICIAL\n\n▪︎ 본 콘텐츠와 무관한 댓글과 출연자에 대한 무분별한 욕설, 비난, 조롱 등의 악의적인 댓글은 무통보 삭제될 수 있습니다",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/AZZCkl3-0JU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/AZZCkl3-0JU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/AZZCkl3-0JU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/AZZCkl3-0JU/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/AZZCkl3-0JU/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "AOMGOFFICIAL",
+              "categoryId": "10",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "AOMG 헤쳐모여! 대망의 ⭐️단체 워크샵⭐️ 레쭈고ㅣ미노미노이 워크샵 EP.1",
+                  "description": "미노미노이 워크샵ㅣEP.1\n\n😼미노미노이 워크샵\n💚EP.1: AOMG 헤쳐모여!\n\n💚본 콘텐츠는 ‘(주)한국인삼공사’로부터 실물 협찬 및 제작지원을 받아 제작되었습니다\n👉 홍삼정 에브리타임 필름(260mg*60매) 구매 링크 바로가기: https://me2.do/5c2NquHn\n_\n#미노이 #meenoi  #미노미노이워크샵\n#meenoiworkshop\n#AOMG\n_\nBusiness Contact : miribang@aomgofficial.com\n_\n◆ Official AOMG\nInstagram : https://instagram.com/AOMGOFFICIAL\nTwitter : https://twitter.com/AOMGOFFICIAL\nYouTube : https://youtube.com/AOMGOFFICIAL\nFacebook : https://facebook.com/AOMGOFFICIAL\n\n▪︎ 본 콘텐츠와 무관한 댓글과 출연자에 대한 무분별한 욕설, 비난, 조롱 등의 악의적인 댓글은 무통보 삭제될 수 있습니다"
+              },
+              "defaultAudioLanguage": "ko"
+          },
+          "contentDetails": {
+              "duration": "PT29M40S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "true",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "1059680",
+              "likeCount": "33570",
+              "favoriteCount": "0",
+              "commentCount": "1474"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "Lun9h_QWm9eBrrX2fUfSJiPldZo",
+          "id": "xrxxALETANY",
+          "snippet": {
+              "publishedAt": "2023-11-18T09:00:28Z",
+              "channelId": "UCnCEKlzi52Yzj2JdBFhKVEA",
+              "title": "DEAN - DIE 4 YOU (Official Visualizer)",
+              "description": "'DIE 4 YOU (4:44)' is OUT NOW on any streaming platform\n\nLyrics by deanfluenza\nComposed by deanfluenza, T.Y, Osvaldo Aritonang, Tanisha T. Sadewo\nProduced by deanfluenza, T.Y, Galdive\nMixed by David Yungin Kim\nMastered by Harrison Hong, Randy Merrill\n\nFollow deantrbl: \nSoundCloud: https://www.soundcloud.com/deantrouble \nFacebook: https://www.facebook.com/deantrblous \nInstagram: https://instagram.com/deantrbl \nTwitter: https://twitter.com/deantheoff",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/xrxxALETANY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/xrxxALETANY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/xrxxALETANY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/xrxxALETANY/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/xrxxALETANY/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "DEANTRBL",
+              "tags": [
+                  "youwillknovv",
+                  "유윌노우",
+                  "딘",
+                  "dean",
+                  "die4you"
+              ],
+              "categoryId": "10",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "DEAN - DIE 4 YOU (Official Visualizer)",
+                  "description": "'DIE 4 YOU (4:44)' is OUT NOW on any streaming platform\n\nLyrics by deanfluenza\nComposed by deanfluenza, T.Y, Osvaldo Aritonang, Tanisha T. Sadewo\nProduced by deanfluenza, T.Y, Galdive\nMixed by David Yungin Kim\nMastered by Harrison Hong, Randy Merrill\n\nFollow deantrbl: \nSoundCloud: https://www.soundcloud.com/deantrouble \nFacebook: https://www.facebook.com/deantrblous \nInstagram: https://instagram.com/deantrbl \nTwitter: https://twitter.com/deantheoff"
+              },
+              "defaultAudioLanguage": "ko"
+          },
+          "contentDetails": {
+              "duration": "PT3M15S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "true",
+              "licensedContent": false,
+              "regionRestriction": {
+                  "blocked": [
+                      "BY",
+                      "RU"
+                  ]
+              },
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "633386",
+              "likeCount": "63477",
+              "favoriteCount": "0",
+              "commentCount": "5369"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "LEpsngTUCy2PVzQhD26eaeBTxTk",
+          "id": "aw3HWq1OPC4",
+          "snippet": {
+              "publishedAt": "2023-11-17T23:59:10Z",
+              "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+              "title": "[ENG] 다과 시간은 핑계고",
+              "description": "제가 참 좋아하는 형이 있는데요.\n이 형이 저랑 연탄도 나르고 고구마도 캐고 고생만 해서\n이번엔 여유롭게 다과 시간 가지며 인생에 대해 깊게 논해봤습니다.\n\n사실 다~~ 핑계고🐓\n해 떨어지는 줄도 모르고\n의식의 흐름 가는 대로 떠들어제껴봤습니다.\n\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\nㅡㅡㅡ\n\n[채널 '뜬뜬' of 안테나플러스]\n연출 | 조은진 조수빈 김다윤 이은솔 추형록 오민주\n작가 | 김송화 최수정 김이진 정채휴 이동연\n\nㅡㅡㅡ\n\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #핑계고 #유재석 #차승원 #다과 #다과시간 \n\n- 본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/aw3HWq1OPC4/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/aw3HWq1OPC4/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/aw3HWq1OPC4/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/aw3HWq1OPC4/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/aw3HWq1OPC4/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "뜬뜬 DdeunDdeun",
+              "tags": [
+                  "뜬뜬",
+                  "핑계고",
+                  "차승원",
+                  "유재석",
+                  "토크",
+                  "예능",
+                  "시간순삭",
+                  "오분순삭",
+                  "드라마추천",
+                  "드라마몰아보기",
+                  "영화추천",
+                  "독전",
+                  "독전몰아보기",
+                  "독전2",
+                  "한효주",
+                  "이재율",
+                  "이재율성대모사",
+                  "서영락대리",
+                  "마이사",
+                  "화가많이나죠"
+              ],
+              "categoryId": "23",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "[ENG] 다과 시간은 핑계고",
+                  "description": "제가 참 좋아하는 형이 있는데요.\n이 형이 저랑 연탄도 나르고 고구마도 캐고 고생만 해서\n이번엔 여유롭게 다과 시간 가지며 인생에 대해 깊게 논해봤습니다.\n\n사실 다~~ 핑계고🐓\n해 떨어지는 줄도 모르고\n의식의 흐름 가는 대로 떠들어제껴봤습니다.\n\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\nㅡㅡㅡ\n\n[채널 '뜬뜬' of 안테나플러스]\n연출 | 조은진 조수빈 김다윤 이은솔 추형록 오민주\n작가 | 김송화 최수정 김이진 정채휴 이동연\n\nㅡㅡㅡ\n\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #핑계고 #유재석 #차승원 #다과 #다과시간 \n\n- 본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다."
+              },
+              "defaultAudioLanguage": "ko"
+          },
+          "contentDetails": {
+              "duration": "PT52M37S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "true",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "2036973",
+              "likeCount": "42120",
+              "favoriteCount": "0",
+              "commentCount": "1710"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "t8ZyO9YXDWz1D3CwUmbrp7VYs9g",
+          "id": "-qbMUidkREQ",
+          "snippet": {
+              "publishedAt": "2023-11-19T21:01:09Z",
+              "channelId": "UCJd73FoI70yaZdSC173HcVw",
+              "title": "양희영 Amy Yang | LPGA 2023 CME Group Tour Championship 파이널 라운드 하이라이트",
+              "description": "LPGA 2023 CME Group Tour Championship 우승한 양희영 선수의 파이널 라운드 하이라이트입니다!\n\n#lpga #골프 #golf #하이라이트 #양희영 \n\n__________\n\nLPGA 코리아 공식 유튜브 채널에서 투어 최신 소식과 라운드 하이라이트, 세계 최정상 여성 골퍼들의 다양한 순간들을 만나보세요!\n\n[공식 SNS 채널 팔로우하기]\n인스타그램: https://www.instagram.com/lpga_korea/\n틱톡: https://www.tiktok.com/@lpga_korea\n \n[공식 사이트]\nhttps://www.lpga.com/\nhttp://www.uslpga.kr/ (한글)\n\nLPGA Korea 채널은 건전한 커뮤니티를 지향합니다. 비방과 욕설은 경고없이 삭제될 수 있습니다.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/-qbMUidkREQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/-qbMUidkREQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/-qbMUidkREQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/-qbMUidkREQ/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/-qbMUidkREQ/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "LPGA Korea",
+              "tags": [
+                  "lpga",
+                  "golf",
+                  "골프",
+                  "여자골프",
+                  "pga",
+                  "pga tour",
+                  "lpga tour",
+                  "lpga 투어",
+                  "klpga",
+                  "골프 연습",
+                  "골프 스윙",
+                  "lpga korea",
+                  "korea golf",
+                  "한국 골프",
+                  "kpga",
+                  "드라이버",
+                  "아이언",
+                  "파팅",
+                  "golf swing",
+                  "박세리",
+                  "박인비",
+                  "전인지",
+                  "박성현",
+                  "김효주",
+                  "고진영",
+                  "김세영",
+                  "유소연",
+                  "최나연",
+                  "최혜진",
+                  "유해란",
+                  "안나린",
+                  "jtbc",
+                  "jtbc golf",
+                  "남자골프",
+                  "골프 하이라이트",
+                  "lpga 중계",
+                  "lpga 방송",
+                  "lpga 하이라이트"
+              ],
+              "categoryId": "17",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "ko",
+              "localized": {
+                  "title": "양희영 Amy Yang | LPGA 2023 CME Group Tour Championship 파이널 라운드 하이라이트",
+                  "description": "LPGA 2023 CME Group Tour Championship 우승한 양희영 선수의 파이널 라운드 하이라이트입니다!\n\n#lpga #골프 #golf #하이라이트 #양희영 \n\n__________\n\nLPGA 코리아 공식 유튜브 채널에서 투어 최신 소식과 라운드 하이라이트, 세계 최정상 여성 골퍼들의 다양한 순간들을 만나보세요!\n\n[공식 SNS 채널 팔로우하기]\n인스타그램: https://www.instagram.com/lpga_korea/\n틱톡: https://www.tiktok.com/@lpga_korea\n \n[공식 사이트]\nhttps://www.lpga.com/\nhttp://www.uslpga.kr/ (한글)\n\nLPGA Korea 채널은 건전한 커뮤니티를 지향합니다. 비방과 욕설은 경고없이 삭제될 수 있습니다."
+              },
+              "defaultAudioLanguage": "ko"
+          },
+          "contentDetails": {
+              "duration": "PT8M23S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "false",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "124339",
+              "likeCount": "2017",
+              "favoriteCount": "0",
+              "commentCount": "98"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "MQWii6PoSMtfUdwJ7ZAsLXQzxO4",
+          "id": "nkmV8WuKKY8",
+          "snippet": {
+              "publishedAt": "2023-11-17T09:28:12Z",
+              "channelId": "UC4ZA57iJrf73bJlApKFeLRw",
+              "title": "🚨풍자 긴급출동🚨구디단 살릴 직장인 맛집 찾았습니다 | 또간집 EP.40",
+              "description": "#풍자 #또간집 #먹방\n구디단 직장인 점심 고민 해결할 풍자가 찾은 숨겨진 맛집 공개\n\n또간집 41화 방콕 편 (12월 1일 6시 30분) 재밌는 거 올라온다\n\n[ 또간집 선서 ] \n✋🏻맛집 광고✋🏻 \n✋🏻맛집 협찬✋🏻 \n✋🏻맛집 비즈니스✋🏻 \n안 받겠습니다.\n \n- 하지만.. 풍자가 쫌.. 많이 먹어요.. - \n🙆‍♀️맛집 외 광고 / 협찬 / 비즈니스🙆‍♀️\nsuze.official@studiosuze.co.kr",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/nkmV8WuKKY8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/nkmV8WuKKY8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/nkmV8WuKKY8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/nkmV8WuKKY8/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/nkmV8WuKKY8/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "재밌는 거 올라온다",
+              "tags": [
+                  "구디",
+                  "구디단",
+                  "구로",
+                  "구로디지털단지",
+                  "구로역",
+                  "구디역",
+                  "두지역",
+                  "구지역",
+                  "구지",
+                  "직장인",
+                  "지딩",
+                  "직딩",
+                  "맛집",
+                  "픙자",
+                  "퐁자",
+                  "홍자",
+                  "훙자",
+                  "vndwk",
+                  "vmdwk",
+                  "vndgkw",
+                  "재밌는거",
+                  "재밌는거올라온다",
+                  "올라온다",
+                  "온다",
+                  "ehrkswlq",
+                  "EHrkswlq",
+                  "erkwlq",
+                  "ehrkswl",
+                  "도간집",
+                  "또갸닞",
+                  "mukbang"
+              ],
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "🚨풍자 긴급출동🚨구디단 살릴 직장인 맛집 찾았습니다 | 또간집 EP.40",
+                  "description": "#풍자 #또간집 #먹방\n구디단 직장인 점심 고민 해결할 풍자가 찾은 숨겨진 맛집 공개\n\n또간집 41화 방콕 편 (12월 1일 6시 30분) 재밌는 거 올라온다\n\n[ 또간집 선서 ] \n✋🏻맛집 광고✋🏻 \n✋🏻맛집 협찬✋🏻 \n✋🏻맛집 비즈니스✋🏻 \n안 받겠습니다.\n \n- 하지만.. 풍자가 쫌.. 많이 먹어요.. - \n🙆‍♀️맛집 외 광고 / 협찬 / 비즈니스🙆‍♀️\nsuze.official@studiosuze.co.kr"
+              },
+              "defaultAudioLanguage": "ko"
+          },
+          "contentDetails": {
+              "duration": "PT29M53S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "true",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "1180325",
+              "likeCount": "15478",
+              "favoriteCount": "0",
+              "commentCount": "2080"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "oLRRtpfVKiE79uCsmr9kEwyZd6k",
+          "id": "W53aG0B2TE0",
+          "snippet": {
+              "publishedAt": "2023-11-18T23:00:15Z",
+              "channelId": "UCpK0ae9lWdtyDi9Cdc1Fqeg",
+              "title": "일본 국민방송을 한류가 점령하게 된 이유",
+              "description": "일본에 사는 한일부부가 일본의 다양한 정보를 투머치토크!\n한국에서는 알 수 없는 시사/경제/생활/문화등의 정보를\n일본 현지인의 시선으로 알기 쉽게 이야기합니다.\n\n[촬영날짜] 2023년11월15일 19:30~\n\n\n◆라이브(생방송)◆\n\n매주 수,토,일에 토크 생방송을 진행하고 있습니다.\n주말에는 일본 여러 동네를  여행하는 야외방송도^^\n\n\n◆자기 소개◆\n\nー오상(박준식)ー\n울산 출신 한국인, 2003년부터 일본거주, 교토대 졸업,\n일본기업·외자계 기업 근무 경험, 일본어 네이티브 수준 \n\nー츄미코(박미사)ー\n아이치/미에현 출신 일본인, 도시샤대 졸업,\n나고야대 법대 중퇴, 전 항공사 승무원, 한국어 계속 공부중(TOPIK 6급 취득자)\n\n\n◆비즈니스 문의◆\n\nｐａｒｋｇａｎｅ８４@지메일.com\n\n※구체적인 안건 내용 및 조건이 적혀 있지 않은 메일, 개인적인 메일은 답장하지 않은 점, 양해해 주시기 바랍니다.\n\n\n◆후원하기◆\n\n(투네이션)\nhttps://toon.at/donate/636790796373914461\n\n(멤버쉽 가입)\nhttps://www.youtube.com/channel/UCpK0ae9lWdtyDi9Cdc1Fqeg/join\n\n\n◆팬레터등의 주소◆\n\nhttps://pf.kakao.com/_DGJxkxl\n위의 링크에서 카톡을 보내주시면 사서함 주소를 알려 드리겠습니다.\n(※ 답변은 일주일 정도 걸립니다. )\n\n\n#일본정보 #일본사회 #박가네",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/W53aG0B2TE0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/W53aG0B2TE0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/W53aG0B2TE0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/W53aG0B2TE0/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/W53aG0B2TE0/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "ぱく家(박가네)",
+              "tags": [
+                  "일본",
+                  "일본여행",
+                  "일본문화",
+                  "일본사람",
+                  "일본방송",
+                  "한류문화",
+                  "썰"
+              ],
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "ko",
+              "localized": {
+                  "title": "일본 국민방송을 한류가 점령하게 된 이유",
+                  "description": "일본에 사는 한일부부가 일본의 다양한 정보를 투머치토크!\n한국에서는 알 수 없는 시사/경제/생활/문화등의 정보를\n일본 현지인의 시선으로 알기 쉽게 이야기합니다.\n\n[촬영날짜] 2023년11월15일 19:30~\n\n\n◆라이브(생방송)◆\n\n매주 수,토,일에 토크 생방송을 진행하고 있습니다.\n주말에는 일본 여러 동네를  여행하는 야외방송도^^\n\n\n◆자기 소개◆\n\nー오상(박준식)ー\n울산 출신 한국인, 2003년부터 일본거주, 교토대 졸업,\n일본기업·외자계 기업 근무 경험, 일본어 네이티브 수준 \n\nー츄미코(박미사)ー\n아이치/미에현 출신 일본인, 도시샤대 졸업,\n나고야대 법대 중퇴, 전 항공사 승무원, 한국어 계속 공부중(TOPIK 6급 취득자)\n\n\n◆비즈니스 문의◆\n\nｐａｒｋｇａｎｅ８４@지메일.com\n\n※구체적인 안건 내용 및 조건이 적혀 있지 않은 메일, 개인적인 메일은 답장하지 않은 점, 양해해 주시기 바랍니다.\n\n\n◆후원하기◆\n\n(투네이션)\nhttps://toon.at/donate/636790796373914461\n\n(멤버쉽 가입)\nhttps://www.youtube.com/channel/UCpK0ae9lWdtyDi9Cdc1Fqeg/join\n\n\n◆팬레터등의 주소◆\n\nhttps://pf.kakao.com/_DGJxkxl\n위의 링크에서 카톡을 보내주시면 사서함 주소를 알려 드리겠습니다.\n(※ 답변은 일주일 정도 걸립니다. )\n\n\n#일본정보 #일본사회 #박가네"
+              },
+              "defaultAudioLanguage": "ko"
+          },
+          "contentDetails": {
+              "duration": "PT19M1S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "false",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "444809",
+              "likeCount": "12782",
+              "favoriteCount": "0",
+              "commentCount": "1006"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "M7SmHpoSvMdSaEbl7jmCeiYI8bE",
+          "id": "1Sn6W2cp1D0",
+          "snippet": {
+              "publishedAt": "2023-11-19T12:00:01Z",
+              "channelId": "UCWlwaqMam9GueCmnwT1VYDA",
+              "title": "겨울 4개월 동안 집보다 더 좋은 텐트 살이 시작합니다│새 장비들 구경 오세요│도토리TV 동계 장박 캠핑",
+              "description": "#도토리TV #캠핑 #차박\n\n이 영상은 '파도상자' 유료 광고를 포함하고 있습니다. \n\n'레트로스 피아노맨3, 베스티블 2칸 제품은 지원 받았습니다.' \n\n▫︎ 도토리TV 멤버십 가입하기\nhttps://www.youtube.com/channel/UCWlw...\n\n▫︎ 음원 \n▫︎ https://www.epidemicsound.com/referral/hotgrg \n(해당 링크로 가입시 30일 무료이용)\n\n▫︎ [캠핑매너 ]https://youtu.be/E-otU9jZxpg\n▫︎ [2020 Q&A] https://youtu.be/QI4bpJjZ6dc\n▫︎ [2019 Q&A] https://youtu.be/cikn4-S1io4\n▫︎ [장비추천을 안하는이유] https://youtu.be/w9zDlbEJias\n▫︎ [박지공유하지않는이유] https://youtu.be/EQ4E8n6MqGI\n▫︎ [장비Q&A] https://youtu.be/eij7xcUDVRw\n\n▫︎ 편집 프로그램 - Adobe Premiere Pro 2020\n▫︎ 비지니스 문의 - etbest2@gmail.com\n\n▫︎백패킹 박지와 관련된 댓글은 삭제 될 수 있습니다.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/1Sn6W2cp1D0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/1Sn6W2cp1D0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/1Sn6W2cp1D0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/1Sn6W2cp1D0/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/1Sn6W2cp1D0/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "도토리TV Dotori TV",
+              "tags": [
+                  "겨울캠핑",
+                  "계곡캠핑",
+                  "난로",
+                  "노지캠핑",
+                  "다람쥐",
+                  "도토리",
+                  "도토리TV",
+                  "도토리묵",
+                  "도토리백패킹",
+                  "도토리캠핑",
+                  "동계백패킹",
+                  "동계침낭",
+                  "동계캠핑",
+                  "라면",
+                  "미니멀캠핑",
+                  "백패킹",
+                  "백패킹매트",
+                  "백패킹먹방",
+                  "백패킹배낭",
+                  "백패킹장비",
+                  "백패킹텐트",
+                  "백패킹침낭",
+                  "백패킹타프",
+                  "삼겹살",
+                  "솔로백패킹",
+                  "솔로캠핑",
+                  "여름캠핑",
+                  "여자백패킹",
+                  "여자캠핑",
+                  "오지캠핑",
+                  "오토캠핑",
+                  "우중캠핑",
+                  "차박",
+                  "차박성지",
+                  "차박텐트",
+                  "침낭",
+                  "카라반",
+                  "캠핑난로",
+                  "캠핑먹방",
+                  "캠핑요리",
+                  "캠핑용품",
+                  "캠핑장비",
+                  "캠핑장비추천",
+                  "캠핑장추천",
+                  "캠핑카",
+                  "캠핑카가격",
+                  "캠핑클럽",
+                  "캠핑텐트",
+                  "캠핑한끼",
+                  "타프",
+                  "텐트",
+                  "트레일러",
+                  "파세코",
+                  "폭우캠핑",
+                  "화목난로",
+                  "camping",
+                  "Coffee",
+                  "backpacking",
+                  "camper",
+                  "campingcar",
+                  "campingfood",
+                  "asmr",
+                  "campinggear",
+                  "campingstove",
+                  "campingtrailer",
+                  "caravan",
+                  "korea",
+                  "mukbang",
+                  "asmr mukbang",
+                  "asmr 먹방",
+                  "리뷰",
+                  "review",
+                  "bushcraft",
+                  "camping vlog"
+              ],
+              "categoryId": "19",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "겨울 4개월 동안 집보다 더 좋은 텐트 살이 시작합니다│새 장비들 구경 오세요│도토리TV 동계 장박 캠핑",
+                  "description": "#도토리TV #캠핑 #차박\n\n이 영상은 '파도상자' 유료 광고를 포함하고 있습니다. \n\n'레트로스 피아노맨3, 베스티블 2칸 제품은 지원 받았습니다.' \n\n▫︎ 도토리TV 멤버십 가입하기\nhttps://www.youtube.com/channel/UCWlw...\n\n▫︎ 음원 \n▫︎ https://www.epidemicsound.com/referral/hotgrg \n(해당 링크로 가입시 30일 무료이용)\n\n▫︎ [캠핑매너 ]https://youtu.be/E-otU9jZxpg\n▫︎ [2020 Q&A] https://youtu.be/QI4bpJjZ6dc\n▫︎ [2019 Q&A] https://youtu.be/cikn4-S1io4\n▫︎ [장비추천을 안하는이유] https://youtu.be/w9zDlbEJias\n▫︎ [박지공유하지않는이유] https://youtu.be/EQ4E8n6MqGI\n▫︎ [장비Q&A] https://youtu.be/eij7xcUDVRw\n\n▫︎ 편집 프로그램 - Adobe Premiere Pro 2020\n▫︎ 비지니스 문의 - etbest2@gmail.com\n\n▫︎백패킹 박지와 관련된 댓글은 삭제 될 수 있습니다."
+              },
+              "defaultAudioLanguage": "ko"
+          },
+          "contentDetails": {
+              "duration": "PT43M10S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "false",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "132560",
+              "likeCount": "3403",
+              "favoriteCount": "0",
+              "commentCount": "312"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "3sEFrNmQvwPIN5yhGumff0LRU4Y",
+          "id": "KMGeWyu4FbE",
+          "snippet": {
+              "publishedAt": "2023-11-20T02:10:00Z",
+              "channelId": "UCsVcseUYbYjldc-XgcsiEbg",
+              "title": "NewJeans Accepts Top Global K-Pop Artist Award | Billboard Music Awards 2023",
+              "description": "NewJeans accepts the award for Top Global K-Pop Artist at the 2023 Billboard Music Awards\n\n►► Subscribe for more music news: http://blbrd.cm/Proracf\n►► See our latest videos: http://blbrd.cm/xOgw6VQ\n\nAbout: Billboard is the world's most influential music media brand, with an unmatched authority among artists, fans and the industry. Billboard powers the ultimate global music destination and magazine, featuring unrivaled reporting on music news, issues and trends, the industry’s definitive charts, encompassing the most complete and well respected database of charts across all music genres, and elite conferences and events which regularly convene the industry and consumers around important conversations. \n\nConnect with Billboard Online:\nVisit the website: http://blbrd.cm/s5w4vTm\nLikes us on Facebook: http://blbrd.cm/ks26yg5\nFollow us on Twitter: http://blbrd.cm/uRNqRoN \nFollow us on Instagram: http://blbrd.cm/6QaTrhn\n\n#NewJeans #BBMAs2023 #BillboardMusicAwards2023 \n\nNewJeans Accepts Top Global K-Pop Artist Award | Billboard Music Awards 2023\n\nBillboard\nhttps://youtube.com/billboard",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/KMGeWyu4FbE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/KMGeWyu4FbE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/KMGeWyu4FbE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/KMGeWyu4FbE/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/KMGeWyu4FbE/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Billboard",
+              "tags": [
+                  "billboard",
+                  "billboard channel",
+                  "official",
+                  "billboard magazine",
+                  "music",
+                  "official billboard channel",
+                  "billboard music awards",
+                  "billboard music awards 2023",
+                  "billboard music awards 2023 performers",
+                  "billboard music awards 2023 NewJeans",
+                  "billboard latin music awards 2023 NewJeans performance",
+                  "bbmas",
+                  "bbmas NewJeans",
+                  "bbmas 2023 NewJeans",
+                  "NewJeaans",
+                  "NewJeans billboard music awards",
+                  "NewJeans bbmas",
+                  "NewJeans acceptance speech",
+                  "newjeans bbmas 2023",
+                  "newjeans bbmas acceptance speech"
+              ],
+              "categoryId": "10",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "NewJeans Accepts Top Global K-Pop Artist Award | Billboard Music Awards 2023",
+                  "description": "NewJeans accepts the award for Top Global K-Pop Artist at the 2023 Billboard Music Awards\n\n►► Subscribe for more music news: http://blbrd.cm/Proracf\n►► See our latest videos: http://blbrd.cm/xOgw6VQ\n\nAbout: Billboard is the world's most influential music media brand, with an unmatched authority among artists, fans and the industry. Billboard powers the ultimate global music destination and magazine, featuring unrivaled reporting on music news, issues and trends, the industry’s definitive charts, encompassing the most complete and well respected database of charts across all music genres, and elite conferences and events which regularly convene the industry and consumers around important conversations. \n\nConnect with Billboard Online:\nVisit the website: http://blbrd.cm/s5w4vTm\nLikes us on Facebook: http://blbrd.cm/ks26yg5\nFollow us on Twitter: http://blbrd.cm/uRNqRoN \nFollow us on Instagram: http://blbrd.cm/6QaTrhn\n\n#NewJeans #BBMAs2023 #BillboardMusicAwards2023 \n\nNewJeans Accepts Top Global K-Pop Artist Award | Billboard Music Awards 2023\n\nBillboard\nhttps://youtube.com/billboard"
+              },
+              "defaultAudioLanguage": "en"
+          },
+          "contentDetails": {
+              "duration": "PT1M44S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "false",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "163108",
+              "likeCount": "6959",
+              "favoriteCount": "0",
+              "commentCount": "388"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "zS2n4G0nlchNrV4riPEXTaES0TE",
+          "id": "JdFRjsEZrmU",
+          "snippet": {
+              "publishedAt": "2023-11-18T15:00:17Z",
+              "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
+              "title": "Acid vs Lava- Testing Liquids That Melt Everything",
+              "description": "Most people I asked predicted the wrong winner here. Go check out the new CrunchLabs Roblox game where you can build rockets with your friends and fly to distant planets to defeat the evil Fat Tail! https://www.roblox.com/BuildaRocket\n\nHere is where you can find the details on how to win a platinum ticket by beating the game- Crunchlabs.com/roblox\n\nAsk for the CrunchLabs Build Box for Christmas and then let’s build some cool stuff together! Get the Holiday special two FREE boxes at https://www.crunchlabs.com/lava\n\nGo check out the channels of my competitors and biased referees:\n@TheBackyardScientist \n@NileRed \n@williamosman \n@Estefannie \n@allenpan \n\nYou should also go subscribe to the CrunchLabs YouTube channel cause we’ve got some bangers in the pipeline- @CrunchLabs \n\nThanks to these folks for providing some of the music in the video:\nPonder - https://youtube.com/@Pondermusic\nLaura Shigihara - @supershigi \nAndrew Applepie - https://soundcloud.com/andrewapplepie\nBlue Wednesday - https://soundcloud.com/bluewednesday\n\nNO PURCHASE NECESSARY. Ends 11:59 p.m. PT on 12/31/23. Open to legal residents of the 50 U.S. & D.C. See Official Rules (https://www.crunchlabs.com/pages/crunchlabs-roblox-sweepstakes) for full details on eligibility requirements, how to enter, free method of entry, prize description and limitations. Void where prohibited. Sponsored by CrunchLabs LLC. Sunnyvale, CA 94087.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/JdFRjsEZrmU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/JdFRjsEZrmU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/JdFRjsEZrmU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/JdFRjsEZrmU/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/JdFRjsEZrmU/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Mark Rober",
+              "categoryId": "28",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "en",
+              "localized": {
+                  "title": "Acid vs Lava- Testing Liquids That Melt Everything",
+                  "description": "Most people I asked predicted the wrong winner here. Go check out the new CrunchLabs Roblox game where you can build rockets with your friends and fly to distant planets to defeat the evil Fat Tail! https://www.roblox.com/BuildaRocket\n\nHere is where you can find the details on how to win a platinum ticket by beating the game- Crunchlabs.com/roblox\n\nAsk for the CrunchLabs Build Box for Christmas and then let’s build some cool stuff together! Get the Holiday special two FREE boxes at https://www.crunchlabs.com/lava\n\nGo check out the channels of my competitors and biased referees:\n@TheBackyardScientist \n@NileRed \n@williamosman \n@Estefannie \n@allenpan \n\nYou should also go subscribe to the CrunchLabs YouTube channel cause we’ve got some bangers in the pipeline- @CrunchLabs \n\nThanks to these folks for providing some of the music in the video:\nPonder - https://youtube.com/@Pondermusic\nLaura Shigihara - @supershigi \nAndrew Applepie - https://soundcloud.com/andrewapplepie\nBlue Wednesday - https://soundcloud.com/bluewednesday\n\nNO PURCHASE NECESSARY. Ends 11:59 p.m. PT on 12/31/23. Open to legal residents of the 50 U.S. & D.C. See Official Rules (https://www.crunchlabs.com/pages/crunchlabs-roblox-sweepstakes) for full details on eligibility requirements, how to enter, free method of entry, prize description and limitations. Void where prohibited. Sponsored by CrunchLabs LLC. Sunnyvale, CA 94087."
+              },
+              "defaultAudioLanguage": "en"
+          },
+          "contentDetails": {
+              "duration": "PT20M37S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "true",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "11450328",
+              "likeCount": "376512",
+              "favoriteCount": "0",
+              "commentCount": "9372"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "_sAWRn81W9nXeBTzskVhFE_ZuO0",
+          "id": "jq9s1hYObWc",
+          "snippet": {
+              "publishedAt": "2023-11-18T07:01:20Z",
+              "channelId": "UCk6bX-MZXdte_7kG8TbMkqg",
+              "title": "200만원짜리 걸음이 빨라지는 신발을 신으면 시간을 절약할 수 있을까?!",
+              "description": "등교길, 출근길, 외출시 등에 걸어가는 시간이 상당합니다. 이 시간을 줄여주는 걸음이 빨라지는 신발?! 과연 결과는?!\n\n#허팝 #문워커 #바퀴신발 #신발 #힐리스 #문워커스 #문워커즈 #Moonwalkers #heopop #wheelshoes #shoes \n\n[LIKE], [SUBSCRIBE] and [SHARE]!!!\n●Heopop channel : http://goo.gl/pAHo88\n●HeopopLife channel : https://goo.gl/wEKBJb\n●HeopopGames channel : http://goo.gl/upcwMZ\n●Heopop's Instagram : http://goo.gl/tDS7WY\n●Heopop's Facebook : http://goo.gl/vuVDQK",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/jq9s1hYObWc/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/jq9s1hYObWc/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/jq9s1hYObWc/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/jq9s1hYObWc/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/jq9s1hYObWc/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "허팝Heopop",
+              "tags": [
+                  "허팝",
+                  "heopop",
+                  "gjvkq",
+                  "문워커스",
+                  "moon walkers",
+                  "shoes",
+                  "wheel shoes",
+                  "the fastest shoes",
+                  "세상에서",
+                  "세상에서 가장 빠른 신발",
+                  "신발",
+                  "빠른",
+                  "아침",
+                  "걷기",
+                  "walk",
+                  "fast walk",
+                  "how to walk fast"
+              ],
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "ko",
+              "localized": {
+                  "title": "200만원짜리 걸음이 빨라지는 신발을 신으면 시간을 절약할 수 있을까?!",
+                  "description": "등교길, 출근길, 외출시 등에 걸어가는 시간이 상당합니다. 이 시간을 줄여주는 걸음이 빨라지는 신발?! 과연 결과는?!\n\n#허팝 #문워커 #바퀴신발 #신발 #힐리스 #문워커스 #문워커즈 #Moonwalkers #heopop #wheelshoes #shoes \n\n[LIKE], [SUBSCRIBE] and [SHARE]!!!\n●Heopop channel : http://goo.gl/pAHo88\n●HeopopLife channel : https://goo.gl/wEKBJb\n●HeopopGames channel : http://goo.gl/upcwMZ\n●Heopop's Instagram : http://goo.gl/tDS7WY\n●Heopop's Facebook : http://goo.gl/vuVDQK"
+              },
+              "defaultAudioLanguage": "ko"
+          },
+          "contentDetails": {
+              "duration": "PT7M2S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "true",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "408164",
+              "likeCount": "5845",
+              "favoriteCount": "0",
+              "commentCount": "574"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "OU4Hq2mYtlwqEOiq-1rN9ElyANA",
+          "id": "yCAmXF76lxs",
+          "snippet": {
+              "publishedAt": "2023-11-18T05:18:31Z",
+              "channelId": "UC37fRkl_iIjDAr9pf0FFzGA",
+              "title": "1년 내내 맛있는 중부식 김장김치 20kg🥇 실패없이 누구나 쉽게 大성공!!  절임배추 그냥 씻지마세요!",
+              "description": "김장김치 맛있게 담그는 법. 김장김치 육수 만드는 법. 김장김치 싱거울때. 김장김치 양념. 김장 찹쌀풀.김장김치양념.김장김치보관.김장김치육수.\n\n김장김치 어렵게 하지 마세요~^^\n\n\n✋ https://band.us/@foodgarden\n     '딸을 위한 레시피' 밴드에서 더 가깝게 만나요 ^^\n\n\n✅레시피 사용시 출처를 밝혀주세요\n⛔️영상의 상업적 이용, 2차 편집 및 재 업로드를 금지합니다\n\n\n✅재료 \n- 절임배추 20kg\n- 육수: 물 3~4L, 황태 대가리 3개, 굵직한 대파 1대(가는대파 2대), 다시마 30g, 무 400g, 불린찹쌀 2컵(340g)\n- 배추 속: 무 3개, 고춧가루 10컵(850g), 갓 500g, 쪽파 1kg, 굵은대파 2대(가는대파 3대), 멸치액젓 5컵(1100g), 새우젓 4컵(950g), 생새우 3컵(500g), 다진마늘 4컵(800g), 다진생강 4큰술(60g), 백설탕 8큰술(115g)\n- 기호에 따라 천일염 1~2큰술(Tbsp)\n- 조미료 안넣은 새우젓이면 미원 1큰술(Tbsp)\n✅영상에서 언급한 컵, 테이블스푼은 계량도구입니다. \n   Tbsp: Tablespoon(15ml)/ tsp: teaspoon(5ml)/ 1컵(Cup)= 200ml \n \n✅Artist : 오늘의 일기(Oneul) \n     Title : Sweet potato (https://youtu.be/FcdAcsfsr2A)\n \n    Artist: 브금대통령 \n    Title : Medium Lucky(https://youtu.be/L1SlVog4mQw)\n\n\n✅이 영상은 ‘딸을위한레시피’에서 제작하였으며, 저작권법의 보호를 받고 있습니다. \n     (All rights reserved)",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/yCAmXF76lxs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/yCAmXF76lxs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/yCAmXF76lxs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/yCAmXF76lxs/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/yCAmXF76lxs/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "딸을 위한 레시피 Recipes for daughters",
+              "tags": [
+                  "밑반찬",
+                  "국요리",
+                  "반찬요리",
+                  "레시피",
+                  "오늘의레시피",
+                  "딸을위한레시피",
+                  "백종원",
+                  "김수미",
+                  "집밥레시피",
+                  "찌개",
+                  "손님상차림",
+                  "손님초대요리",
+                  "초대",
+                  "asmr",
+                  "반찬",
+                  "하루한끼",
+                  "브이로그",
+                  "vlog",
+                  "먹방",
+                  "랜선집들이",
+                  "일상브이로그",
+                  "일상vlog",
+                  "엄마",
+                  "엄마집밥",
+                  "엄마손",
+                  "브이로그일상",
+                  "브이로그먹방",
+                  "브이로그집들이",
+                  "asianfood",
+                  "koreanfood",
+                  "healthyrecipe",
+                  "koreanrecipe",
+                  "asianrecipe",
+                  "kimchi",
+                  "mukbang",
+                  "맛있게만드는방법",
+                  "맛있게만드는법",
+                  "이남자의쿡",
+                  "윤이련",
+                  "함께해요",
+                  "맛나요리",
+                  "양장금",
+                  "엄마의손맛",
+                  "집반찬",
+                  "집밥",
+                  "간단요리",
+                  "쉬운요리",
+                  "빠른요리",
+                  "요리초보",
+                  "자취",
+                  "자취요리",
+                  "김장김치",
+                  "백김치",
+                  "파김치",
+                  "김치볶음밥",
+                  "김장",
+                  "김치찌개",
+                  "김장김치 맛있게 담그는 법",
+                  "김장김치 10포기 양념",
+                  "김장김치 육수만드는법",
+                  "김장김치 싱거울때",
+                  "김장김치 수육 먹방",
+                  "김장김치 40포기 양념",
+                  "김장김치 절이는법",
+                  "김장김치 수육",
+                  "김장김치 40키로",
+                  "김장김치 양념만들기",
+                  "김장김치 볶음",
+                  "김장김치 양념 황금비율",
+                  "김장김치 밥 먹방"
+              ],
+              "categoryId": "26",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "ko",
+              "localized": {
+                  "title": "1년 내내 맛있는 중부식 김장김치 20kg🥇 실패없이 누구나 쉽게 大성공!!  절임배추 그냥 씻지마세요!",
+                  "description": "김장김치 맛있게 담그는 법. 김장김치 육수 만드는 법. 김장김치 싱거울때. 김장김치 양념. 김장 찹쌀풀.김장김치양념.김장김치보관.김장김치육수.\n\n김장김치 어렵게 하지 마세요~^^\n\n\n✋ https://band.us/@foodgarden\n     '딸을 위한 레시피' 밴드에서 더 가깝게 만나요 ^^\n\n\n✅레시피 사용시 출처를 밝혀주세요\n⛔️영상의 상업적 이용, 2차 편집 및 재 업로드를 금지합니다\n\n\n✅재료 \n- 절임배추 20kg\n- 육수: 물 3~4L, 황태 대가리 3개, 굵직한 대파 1대(가는대파 2대), 다시마 30g, 무 400g, 불린찹쌀 2컵(340g)\n- 배추 속: 무 3개, 고춧가루 10컵(850g), 갓 500g, 쪽파 1kg, 굵은대파 2대(가는대파 3대), 멸치액젓 5컵(1100g), 새우젓 4컵(950g), 생새우 3컵(500g), 다진마늘 4컵(800g), 다진생강 4큰술(60g), 백설탕 8큰술(115g)\n- 기호에 따라 천일염 1~2큰술(Tbsp)\n- 조미료 안넣은 새우젓이면 미원 1큰술(Tbsp)\n✅영상에서 언급한 컵, 테이블스푼은 계량도구입니다. \n   Tbsp: Tablespoon(15ml)/ tsp: teaspoon(5ml)/ 1컵(Cup)= 200ml \n \n✅Artist : 오늘의 일기(Oneul) \n     Title : Sweet potato (https://youtu.be/FcdAcsfsr2A)\n \n    Artist: 브금대통령 \n    Title : Medium Lucky(https://youtu.be/L1SlVog4mQw)\n\n\n✅이 영상은 ‘딸을위한레시피’에서 제작하였으며, 저작권법의 보호를 받고 있습니다. \n     (All rights reserved)"
+              },
+              "defaultAudioLanguage": "ko"
+          },
+          "contentDetails": {
+              "duration": "PT10M55S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "false",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "162732",
+              "likeCount": "1968",
+              "favoriteCount": "0",
+              "commentCount": "122"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "uwvQNoef_LqmLzF79zTlXmRP-W0",
+          "id": "xY56icK985M",
+          "snippet": {
+              "publishedAt": "2023-11-19T07:00:25Z",
+              "channelId": "UCjHn_Os5NoCXZyoXzuKth9w",
+              "title": "롤스로이스 1호 주인공 재벌이 자신을 드러내지 않았던 이유.. 코오롱 이야기 / 소비더머니",
+              "description": "한국 최초로 나일론을 들여왔고, 생산하면서 재벌그룹이 된 코오롱.\n최고의 섬유 관련 기업으로 한국 최초의 거대기업 중 하나로 성장했지만,\n소위 '문어발 확장'과는 거리를 두었던 코오롱의 역사에는 어떤 사연이 담겨 있을까요?\n한국 마라톤과 등산, 스포츠에 큰 업적을 남긴 코오롱 그룹 이야기를 전해드립니다.\n\n#코오롱 #코오롱스포츠 #코오롱인더스트리",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/xY56icK985M/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/xY56icK985M/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/xY56icK985M/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/xY56icK985M/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/xY56icK985M/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "소비더머니",
+              "tags": [
+                  "이동찬",
+                  "이웅열",
+                  "이원만",
+                  "안타티카",
+                  "코오롱패딩",
+                  "코오롱등산화",
+                  "김태리",
+                  "공효진",
+                  "인보사",
+                  "티슈진",
+                  "BMW",
+                  "롤스로이스",
+                  "마라톤",
+                  "황영조",
+                  "이봉주",
+                  "등산",
+                  "코오롱스포츠50주년"
+              ],
+              "categoryId": "25",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "롤스로이스 1호 주인공 재벌이 자신을 드러내지 않았던 이유.. 코오롱 이야기 / 소비더머니",
+                  "description": "한국 최초로 나일론을 들여왔고, 생산하면서 재벌그룹이 된 코오롱.\n최고의 섬유 관련 기업으로 한국 최초의 거대기업 중 하나로 성장했지만,\n소위 '문어발 확장'과는 거리를 두었던 코오롱의 역사에는 어떤 사연이 담겨 있을까요?\n한국 마라톤과 등산, 스포츠에 큰 업적을 남긴 코오롱 그룹 이야기를 전해드립니다.\n\n#코오롱 #코오롱스포츠 #코오롱인더스트리"
+              }
+          },
+          "contentDetails": {
+              "duration": "PT15M21S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "false",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "237883",
+              "likeCount": "3320",
+              "favoriteCount": "0",
+              "commentCount": "257"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "_jnEEkHF2H43OchPthD3K1fmJjk",
+          "id": "UNeD0H4BM6w",
+          "snippet": {
+              "publishedAt": "2023-11-19T07:15:00Z",
+              "channelId": "UCsVcseUYbYjldc-XgcsiEbg",
+              "title": "Keena From FIFTY FIFTY On Success of \"Cupid\" & Future of FIFTY FIFTY |  Billboard No. 1 BBMAs Party",
+              "description": "Keena From FIFTY FIFTY spoke with Billboard at the 2023 Billboard No. 1 Official BBMAs Party.\n\n►► Subscribe for more music news: http://blbrd.cm/Proracf\n►► See our latest videos: http://blbrd.cm/xOgw6VQ\n\nAbout: Billboard is the world's most influential music media brand, with an unmatched authority among artists, fans and the industry. Billboard powers the ultimate global music destination and magazine, featuring unrivaled reporting on music news, issues and trends, the industry’s definitive charts, encompassing the most complete and well respected database of charts across all music genres, and elite conferences and events which regularly convene the industry and consumers around important conversations. \n\nConnect with Billboard Online:\nVisit the website: http://blbrd.cm/s5w4vTm\nLikes us on Facebook: http://blbrd.cm/ks26yg5\nFollow us on Twitter: http://blbrd.cm/uRNqRoN \nFollow us on Instagram: http://blbrd.cm/6QaTrhn\n\n#FIFTYFIFTY #BBMAs2023 ##BillboardNo1BBMAsParty\n\nKeena From FIFTY FIFTY On Success of \"Cupid\" & Future of FIFTY FIFTY |  Billboard No. 1 BBMAs Party\n\nBillboard\nhttps://youtube.com/billboard",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/UNeD0H4BM6w/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/UNeD0H4BM6w/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/UNeD0H4BM6w/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/UNeD0H4BM6w/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/UNeD0H4BM6w/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Billboard",
+              "tags": [
+                  "billboard",
+                  "billboard channel",
+                  "official",
+                  "billboard magazine",
+                  "music",
+                  "official billboard channel",
+                  "billboard music awards",
+                  "billboard music awards 2023",
+                  "bbmas",
+                  "bbmas 2023",
+                  "2023 billboard music awards",
+                  "2023 billboard music awards red carpet",
+                  "billboard music awards 2023 red carpet",
+                  "bbmas 2023 red carpet",
+                  "keena",
+                  "keena fifty fifty",
+                  "keena fifty fifty interview",
+                  "keena fifty fifty english",
+                  "fifty fifty cupid",
+                  "fifty fifty interview",
+                  "fifty fifty interview english"
+              ],
+              "categoryId": "10",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "Keena From FIFTY FIFTY On Success of \"Cupid\" & Future of FIFTY FIFTY |  Billboard No. 1 BBMAs Party",
+                  "description": "Keena From FIFTY FIFTY spoke with Billboard at the 2023 Billboard No. 1 Official BBMAs Party.\n\n►► Subscribe for more music news: http://blbrd.cm/Proracf\n►► See our latest videos: http://blbrd.cm/xOgw6VQ\n\nAbout: Billboard is the world's most influential music media brand, with an unmatched authority among artists, fans and the industry. Billboard powers the ultimate global music destination and magazine, featuring unrivaled reporting on music news, issues and trends, the industry’s definitive charts, encompassing the most complete and well respected database of charts across all music genres, and elite conferences and events which regularly convene the industry and consumers around important conversations. \n\nConnect with Billboard Online:\nVisit the website: http://blbrd.cm/s5w4vTm\nLikes us on Facebook: http://blbrd.cm/ks26yg5\nFollow us on Twitter: http://blbrd.cm/uRNqRoN \nFollow us on Instagram: http://blbrd.cm/6QaTrhn\n\n#FIFTYFIFTY #BBMAs2023 ##BillboardNo1BBMAsParty\n\nKeena From FIFTY FIFTY On Success of \"Cupid\" & Future of FIFTY FIFTY |  Billboard No. 1 BBMAs Party\n\nBillboard\nhttps://youtube.com/billboard"
+              },
+              "defaultAudioLanguage": "en"
+          },
+          "contentDetails": {
+              "duration": "PT2M",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "false",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "200842",
+              "likeCount": "8834",
+              "favoriteCount": "0",
+              "commentCount": "1890"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "cRqZcm12xN1tNfTr5YldpCCxwUM",
+          "id": "J3UkTB7cSFM",
+          "snippet": {
+              "publishedAt": "2023-11-17T06:23:44Z",
+              "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+              "title": "선수들의 선수 \"흥민이 형님\"과 찰칵📸 스머가 공수한 싱가포르전 비하인드 직캠✨ / 스포츠머그",
+              "description": "클린스만 감독이 이끄는 축구대표팀이 2026 북중미 월드컵 2차 예선 첫 경기 싱가포르전을 5대 0 대승으로 마쳤습니다. 싱가포르 대표팀의 한국계 귀화 선수인 송의영은 '슈퍼스타' 손흥민과 유니폼을 교환하기 위해 인터뷰가 끝나기를 기다리기도 했는데요. 싱가포르전 비하인드 직캠, 〈스포츠머그〉에서 전해드립니다.\n \n(취재: 이정찬 / 구성·편집: 박진형 / 영상취재: 이병주 / 제작: 디지털뉴스제작부)\n\n00:00 인트로\n00:20 경기 전\n01:03 경기 후\n02:00 손흥민 인터뷰\n02:35 손흥민을 기다리는 송의영\n03:14 유니폼 교환 순간\n03:41 송의영 인터뷰\n\n🥇스포츠는 뭐다? ▶ 스포츠머그 SPORTSMUG\n\n#스포츠머그 #싱가포르 #싱가포르전 #송의영 #손흥민 #클린스만호 #축구 #월드컵 #축구대표팀 #직캠 #비하인드 #SMG\n\n♨지금 뜨거운 이슈, 함께 토론하기(스프 구독) : https://premium.sbs.co.kr\n\n▶스포츠머그 채널 구독하기 : https://n.sbs.co.kr/sportsMugTube\n▶Homepage : https://videomug.co.kr\n▶Facebook : https://www.facebook.com/videomug\n▶Twitter : https://twitter.com/videomug_sbs\n\nCopyright Ⓒ SBS. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/J3UkTB7cSFM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/J3UkTB7cSFM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/J3UkTB7cSFM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/J3UkTB7cSFM/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/J3UkTB7cSFM/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "스포츠머그 - SPORTSMUG",
+              "tags": [
+                  "SBS SPORTSMUG",
+                  "SPORTSMUG",
+                  "format:해설",
+                  "location:서울",
+                  "series:스포츠머그",
+                  "source:영상",
+                  "type:디지털",
+                  "네ㅐㄳ느ㅕㅎ",
+                  "스포츠 MUG"
+              ],
+              "categoryId": "17",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "선수들의 선수 \"흥민이 형님\"과 찰칵📸 스머가 공수한 싱가포르전 비하인드 직캠✨ / 스포츠머그",
+                  "description": "클린스만 감독이 이끄는 축구대표팀이 2026 북중미 월드컵 2차 예선 첫 경기 싱가포르전을 5대 0 대승으로 마쳤습니다. 싱가포르 대표팀의 한국계 귀화 선수인 송의영은 '슈퍼스타' 손흥민과 유니폼을 교환하기 위해 인터뷰가 끝나기를 기다리기도 했는데요. 싱가포르전 비하인드 직캠, 〈스포츠머그〉에서 전해드립니다.\n \n(취재: 이정찬 / 구성·편집: 박진형 / 영상취재: 이병주 / 제작: 디지털뉴스제작부)\n\n00:00 인트로\n00:20 경기 전\n01:03 경기 후\n02:00 손흥민 인터뷰\n02:35 손흥민을 기다리는 송의영\n03:14 유니폼 교환 순간\n03:41 송의영 인터뷰\n\n🥇스포츠는 뭐다? ▶ 스포츠머그 SPORTSMUG\n\n#스포츠머그 #싱가포르 #싱가포르전 #송의영 #손흥민 #클린스만호 #축구 #월드컵 #축구대표팀 #직캠 #비하인드 #SMG\n\n♨지금 뜨거운 이슈, 함께 토론하기(스프 구독) : https://premium.sbs.co.kr\n\n▶스포츠머그 채널 구독하기 : https://n.sbs.co.kr/sportsMugTube\n▶Homepage : https://videomug.co.kr\n▶Facebook : https://www.facebook.com/videomug\n▶Twitter : https://twitter.com/videomug_sbs\n\nCopyright Ⓒ SBS. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지"
+              }
+          },
+          "contentDetails": {
+              "duration": "PT5M7S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "false",
+              "licensedContent": true,
+              "regionRestriction": {
+                  "allowed": [
+                      "KR"
+                  ]
+              },
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "961511",
+              "likeCount": "11136",
+              "favoriteCount": "0",
+              "commentCount": "1096"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "GgDKVbLo1NyjtkdRWUVgoofYTC8",
+          "id": "icnU0EXOJms",
+          "snippet": {
+              "publishedAt": "2023-11-16T11:37:34Z",
+              "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+              "title": "[1위] 'COMEBACK' 정국 - Standing Next to You #엠카운트다운 EP.823 | Mnet 231116 방송",
+              "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\nM COUNTDOWN｜Ep.823\n정국 - 스탠딩 넥스트 투 유 (Jung Kook - Standing Next to You)\n\nWorld No.1 K-POP Chart Show M COUNTDOWN\nEvery Thur 6PM(KST) Mnet Live on Air\n매주 목요일 저녁 6시 엠넷 생방송\n\n#티빙에서스트리밍",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/icnU0EXOJms/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/icnU0EXOJms/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/icnU0EXOJms/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/icnU0EXOJms/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/icnU0EXOJms/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Mnet K-POP",
+              "tags": [
+                  "CJ100",
+                  "JungKook",
+                  "KPOP",
+                  "MCD",
+                  "MCOUNTDOWN",
+                  "Mnet",
+                  "Standing_Next_to_You",
+                  "스탠딩넥스트투유",
+                  "엠넷",
+                  "엠카",
+                  "엠카운트다운",
+                  "정국",
+                  "케이팝",
+                  "티빙에서스트리밍"
+              ],
+              "categoryId": "20",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "ko",
+              "localized": {
+                  "title": "[1위] 'COMEBACK' 정국 - Standing Next to You #엠카운트다운 EP.823 | Mnet 231116 방송",
+                  "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\nM COUNTDOWN｜Ep.823\n정국 - 스탠딩 넥스트 투 유 (Jung Kook - Standing Next to You)\n\nWorld No.1 K-POP Chart Show M COUNTDOWN\nEvery Thur 6PM(KST) Mnet Live on Air\n매주 목요일 저녁 6시 엠넷 생방송\n\n#티빙에서스트리밍"
+              },
+              "defaultAudioLanguage": "en-US"
+          },
+          "contentDetails": {
+              "duration": "PT4M2S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "false",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "1893966",
+              "likeCount": "213205",
+              "favoriteCount": "0",
+              "commentCount": "6365"
+          }
+      },
+      {
+          "kind": "youtube#video",
+          "etag": "nNGZl6tvygSOk8ec9ZMzyJNQ8fk",
+          "id": "82U3YlvOGME",
+          "snippet": {
+              "publishedAt": "2023-11-19T02:12:11Z",
+              "channelId": "UC_plsxzy7RgTkEeBryt4kEg",
+              "title": "안녕하세요 옆집형입니다",
+              "description": "오랜만에 인사드립니다\n\n* 옆집형 인스타 \n@yupzip._.bro (https://instagram.com/yupzip._.bro)\n* 비즈니스 문의\nzzansworld4@gmail.com",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/82U3YlvOGME/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/82U3YlvOGME/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/82U3YlvOGME/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/82U3YlvOGME/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/82U3YlvOGME/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "옆집형NeighborBro",
+              "tags": [
+                  "옆집형",
+                  "베트남",
+                  "호치민",
+                  "하노이",
+                  "동남아",
+                  "여행",
+                  "맛집",
+                  "먹방",
+                  "코이티비",
+                  "여직원",
+                  "MZ오피스",
+                  "남자 선물",
+                  "디올 향수",
+                  "남자친구 선물",
+                  "30대 남자 선물"
+              ],
+              "categoryId": "24",
+              "liveBroadcastContent": "none",
+              "defaultLanguage": "ko",
+              "localized": {
+                  "title": "안녕하세요 옆집형입니다",
+                  "description": "오랜만에 인사드립니다\n\n* 옆집형 인스타 \n@yupzip._.bro (https://instagram.com/yupzip._.bro)\n* 비즈니스 문의\nzzansworld4@gmail.com"
+              },
+              "defaultAudioLanguage": "ko"
+          },
+          "contentDetails": {
+              "duration": "PT17M40S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "false",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "131486",
+              "likeCount": "13484",
+              "favoriteCount": "0",
+              "commentCount": "1993"
+          }
       }
-    }
   ],
-  "nextPageToken": "CAUQAA",
+  "nextPageToken": "CBkQAA",
   "pageInfo": {
-    "totalResults": 200,
-    "resultsPerPage": 5
+      "totalResults": 200,
+      "resultsPerPage": 25
   }
 }
