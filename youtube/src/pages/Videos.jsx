@@ -2,7 +2,8 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query'
 import VideoCard from '../components/VideoCard';
-import FakeYoutube from '../api/fakeYoutube';
+import Youtube from '../api/youtube';
+// import FakeYoutube from '../api/fakeYoutube';
 
 
 export default function Videos() {
@@ -14,7 +15,8 @@ export default function Videos() {
     } = useQuery({
         queryKey: ["videos", keyword], // 배열의 형태로 지정.
         queryFn: async () => {
-            const youtube = new FakeYoutube();
+            const youtube = new Youtube();
+            // const youtube = new FakeYoutube();
             return youtube.search(keyword);
         },
     });
