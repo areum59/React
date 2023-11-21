@@ -3,7 +3,7 @@ import { Outlet } from 'react-router-dom' // 리액트 라우터로부터 Outlet
 import SearchHeader from './components/SearchHeader';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { ReactQueryDevtools } from '@tanstack/react-query-devtools';
-import { YoutubeApiProvider } from './context/YoutubeContext';
+import { YoutubeApiProvider } from './context/YoutubeApiContext';
 
 const queryClient = new QueryClient()
 
