@@ -1,6 +1,6 @@
 import React from 'react';
 import { useLocation } from 'react-router-dom';
-import ChannerlInfo from '../components/ChannerlInfo';
+import ChannelInfo from '../components/ChannelInfo';
 import RelatedVideos from '../components/RelatedVideos';
 
 export default function VideoDetail() {
@@ -22,7 +22,7 @@ export default function VideoDetail() {
 
             <div>
                 <h2>{title}</h2>
-                <ChannerlInfo id={channelId} name={channelTitle} />
+                <ChannelInfo id={channelId} name={channelTitle} />
                 <pre>
                     {description}
                 </pre>
