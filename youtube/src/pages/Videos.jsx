@@ -16,7 +16,7 @@ export default function Videos() {
         queryKey: ["videos", keyword], // 배열의 형태로 지정.
         queryFn: async () => {
             return youtube.search(keyword);
-        },
+        }, staleTime: 1000 * 60 * 1
     });
 
     return (
