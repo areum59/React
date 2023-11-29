@@ -1,9 +1,9 @@
 import './App.css';
-import Counter from './components/useState/Counter';
+import InputSample from './components/useState/InputSample';
 
 function App() {
   return (
-    <Counter />
+    <InputSample />
   );
 }
 
