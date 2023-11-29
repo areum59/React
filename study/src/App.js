@@ -1,15 +1,9 @@
 import './App.css';
-import Hello from './components/props/Hello';
-import Wrapper from './components/props/Wrapper';
+import Counter from './components/useState/Counter';
 
 function App() {
   return (
-    <>
-      <Wrapper>
-        <Hello name="리액트" color="red" isSpecial={true} />
-        <Hello color="gold" />
-      </Wrapper>
-    </>
+    <Counter />
   );
 }
 
