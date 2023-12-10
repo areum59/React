@@ -1,9 +1,11 @@
 import './App.css';
-import InputSample from './components/useState/InputSample';
+import MemoExample from './components/useMemo/MemoExample';
 
 function App() {
   return (
-    <InputSample />
+    <>
+      <MemoExample />
+    </>
   );
 }
 
