@@ -1,10 +1,10 @@
 import './App.css';
-import FormMethods from './components/FormMethods';
+import InitialValues from './components/initialValues';
 
 function App() {
   return (
     <div className="App">
-      <FormMethods />
+      <InitialValues />
     </div>
   );
 }
